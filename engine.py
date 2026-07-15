@@ -1,168 +1,116 @@
 import os
 import json
-import random
+from datetime import datetime
 import yfinance as yf
 from google import genai
 
-# ==========================================
-# 1. LIVE SECTOR & INDEX SCRAPER
-# ==========================================
-def fetch_live_market_data():
-    print("🔍 Fetching live market index & sector data...")
-    
-    market_metrics = {
-        "market_trend": "flat",
-        "sectors_jumped": [],
-        "sectors_dipped": [],
-        "top_etf": random.choice(["V-O-O", "V-T-I", "D-G-R-O", "S-C-H-D"])
+def fetch_market_data():
+    """Fetches daily prices and percentage changes for key assets."""
+    print("📈 Fetching today's market data...")
+    # S&P 500 (SPY), Nasdaq (QQQ), and XRP (XRP-USD)
+    tickers = {
+        "S&P 500": "SPY",
+        "Nasdaq": "QQQ",
+        "XRP": "XRP-USD"
     }
     
-    # 1. Fetch S&P 500 Index Movement
-    try:
-        sp500 = yf.Ticker("^GSPC")
-        today_data = sp500.history(period="1d")
-        if not today_data.empty:
-            open_price = today_data['Open'].iloc[0]
-            close_price = today_data['Close'].iloc[0]
-            pct_change = ((close_price - open_price) / open_price) * 100
-            direction = "gained" if pct_change >= 0 else "lost"
-            market_metrics["market_trend"] = f"{direction} roughly {abs(pct_change):.2f}%"
-        else:
-            market_metrics["market_trend"] = "remained relatively flat"
-    except Exception as e:
-        print(f"⚠️ S&P 500 data unavailable: {e}")
-        market_metrics["market_trend"] = "shifted sideways"
-
-    # 2. Fetch Dynamic Sector Jumps and Dips
-    sectors = {
-        "Technology (XLK)": "XLK",
-        "Financials (XLF)": "XLF",
-        "Energy (XLE)": "XLE",
-        "Healthcare (XLV)": "XLV"
-    }
-    
-    for sector_name, ticker in sectors.items():
+    data_summary = {}
+    for name, ticker in tickers.items():
         try:
-            sec_ticker = yf.Ticker(ticker)
-            sec_data = sec_ticker.history(period="1d")
-            if not sec_data.empty:
-                s_open = sec_data['Open'].iloc[0]
-                s_close = sec_data['Close'].iloc[0]
-                change = ((s_close - s_open) / s_open) * 100
+            asset = yf.Ticker(ticker)
+            # Fetch today's history (1 day interval)
+            hist = asset.history(period="2d")
+            if len(hist) >= 2:
+                close_today = hist['Close'].iloc[-1]
+                close_yesterday = hist['Close'].iloc[-2]
+                pct_change = ((close_today - close_yesterday) / close_yesterday) * 100
                 
-                formatted_info = f"{sector_name} ({'+' if change >= 0 else ''}{change:.2f}%)"
-                if change >= 0:
-                    market_metrics["sectors_jumped"].append(formatted_info)
-                else:
-                    market_metrics["sectors_dipped"].append(formatted_info)
+                data_summary[name] = {
+                    "ticker": ticker,
+                    "price": round(close_today, 2),
+                    "change": round(pct_change, 2)
+                }
+            else:
+                # Fallback if 2 days of history aren't available
+                info = asset.info
+                price = info.get("regularMarketPrice") or info.get("previousClose") or 0.0
+                change = info.get("regularMarketChangePercent", 0.0) * 100
+                data_summary[name] = {
+                    "ticker": ticker,
+                    "price": round(price, 2),
+                    "change": round(change, 2)
+                }
         except Exception as e:
-            print(f"⚠️ Failed to pull sector {ticker}: {e}")
+            print(f"⚠️ Failed to fetch data for {name}: {e}")
+            data_summary[name] = {"ticker": ticker, "price": 0.0, "change": 0.0}
+            
+    return data_summary
 
-    # Fallbacks in case of network lag/market close issues
-    if not market_metrics["sectors_jumped"]:
-        market_metrics["sectors_jumped"] = ["Growth sectors"]
-    if not market_metrics["sectors_dipped"]:
-        market_metrics["sectors_dipped"] = ["Defensive sectors"]
-
-    return market_metrics
-
-# ==========================================
-# 2. SECTOR-DETAIL SCRIPT GENERATOR
-# ==========================================
-def generate_daily_voiceover(market_data):
-    print("🤖 Building highly-detailed sector analysis script via Gemini...")
-    api_key = os.environ.get("GEMINI_API_KEY")
+def generate_video_script(market_data):
+    """Generates a high-retention video script with a built-in terminal CTA."""
+    print("🤖 Prompting Gemini for today's video script...")
     
-    if not api_key:
-        print("⚠️ Warning: GEMINI_API_KEY environment variable not found.")
-        return None
+    # Format market data into a clean text block for the prompt
+    data_text = ""
+    for asset, details in market_data.items():
+        data_text += f"- {asset} ({details['ticker']}): ${details['price']} ({details['change']}% today)\n"
         
-    client = genai.Client(api_key=api_key)
-    
-    movement = market_data.get("market_trend")
-    jumps = ", ".join(market_data.get("sectors_jumped", []))
-    dips = ", ".join(market_data.get("sectors_dipped", []))
-    anchor_asset = market_data.get("top_etf")
-    
-    # Keeping the variety engine intact
-    hooks = [
-        "The stock market just wrapped another major trading session, and the movement behind the scenes was massive.",
-        "If you saw your portfolio move today, you need to understand the real story of what just went down on Wall Street.",
-        "We've got the closing bell numbers in, and today was a classic example of market rotation. Let's look at the charts."
-    ]
-    
-    vibes = [
-        "Speak like an elite, straight-shooting financial coach. Keep the pace intense, smart, and highly analytical.",
-        "Be conversational, direct, and authoritative. Break down the data with high-value energy so it's simple to digest."
-    ]
-    
-    chosen_hook = random.choice(hooks)
-    chosen_vibe = random.choice(vibes)
+    # Initialize the correct Google GenAI client (picks up GEMINI_API_KEY automatically)
+    client = genai.Client()
     
     prompt = f"""
-    You are a premium short-form financial educator. 
-    Write an incredibly informative, high-energy 50-to-60-second video script explaining today's real stock market shifts.
-    
-    Tone Direction: {chosen_vibe}
-    Hook to adapt: {chosen_hook}
-    
-    Live Market Data for Scripting:
-    - Overall S&P 500 direction today: The market {movement}
-    - Sectors that saw a JUMP (gained ground): {jumps}
-    - Sectors that saw a DIP (lost ground): {dips}
-    - Recommended Core Anchor ETF: {anchor_asset}
-    
-    Strict Script Structure Requirements:
-    1. Hook the audience instantly using the Hook concept, stating exactly how the S&P 500 closed today and why.
-    2. Deep Dive on Sectors: Clearly tell the audience which sectors saw a jump and which ones took a dip. Give a simple, beginner-friendly explanation of WHY this rotation happened (e.g., cooling inflation sparking a tech run, or money moving out of energy due to oil fluctuation).
-    3. The Low-Anxiety Lesson: Teach beginners that these daily jumps and dips are completely normal market breathing cycles. Explain why panic-selling the dips or chasing the green jumps is a wealth-killing trap.
-    4. Transition cleanly to the anchor fund: Tell them to ignore the day-to-day chaos and auto-compound their cash in {anchor_asset} instead. Explicitly pronounce the letters of the ticker: {anchor_asset}.
-    5. Close with the exact call to action: "Head over to the link in my bio, grab my free Low-Anxiety Investing Blueprint, and let's automate your wealth building today."
-    
-    CRITICAL RULES:
-    - Focus heavily on the sector trends (e.g., Tech, Energy, Financials) rather than individual stocks. DO NOT mention stock symbols like NVDA or AAPL.
-    - Write smoothly as one continuous voiceover—no scene tags, speaker blocks, brackets, or notes. Only output the spoken text.
-    - Keep it under 165 words so it remains punchy and fits a short-form video perfectly.
-    """
-    
-    try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-        )
-        return response.text.strip()
-    except Exception as e:
-        print(f"❌ Gemini API Error: {e}")
-        return None
+You are an expert sports and finance creator. Write a highly engaging, fast-paced, 60-second video script analyzing today's market performance based on this data:
 
-# ==========================================
-# 3. MASTER PIPELINE
-# ==========================================
+{data_text}
+
+TONE & STYLE RULES:
+1. Energetic, punchy, conversational, and completely low-anxiety. 
+2. Speak directly to regular people trying to build long-term bags.
+3. No complex jargon or dry financial reporting. Explain the "vibe" of the market today.
+4. Keep the script under 130 words total so it comfortably fits a 60-second runtime.
+
+CRITICAL RULE FOR THE OUTRO (MANDATORY CTA):
+You must end the script with a very quick, natural, low-friction call-to-action (CTA) directing viewers to check out our free Streamlit market terminal (https://low-anxiety-terminal.streamlit.app/). Keep the CTA under 15 words.
+
+Example Outro styles to adapt:
+- "Check today's vibe and run your compound growth numbers on our free terminal—link is pinned!"
+- "I updated today's numbers on our free, zero-panic market terminal. Tap the pinned link to calculate your bag."
+- "Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+"""
+
+    response = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=prompt,
+    )
+    
+    return response.text.strip()
+
 def main():
-    print("🚀 Starting Data Engine Pipeline...")
+    # 1. Fetch live stock/crypto data
+    market_data = fetch_market_data()
     
-    market_data = fetch_live_market_data()
-    ai_script = generate_daily_voiceover(market_data)
+    # 2. Use Gemini to write the video script with the new CTA
+    script = generate_video_script(market_data)
     
-    if ai_script:
-        print(f"✅ Dynamic sector-focused script compiled for anchor: {market_data['top_etf']}!")
-        market_data["daily_voiceover_script"] = ai_script
-    else:
-        print("🔄 Deploying structural fallback template...")
-        ticker = market_data.get("top_etf", "V-O-O")
-        market_data["daily_voiceover_script"] = (
-            f"The stock market saw some major moves today. While certain growth sectors surged ahead, "
-            f"defensive areas saw a brief dip as investors rotated capital. As a beginner, chasing these "
-            f"daily jumps is a trap. Instead of trying to time the market, rely on consistent, broad-market "
-            f"anchors like {ticker} to build secure, long-term wealth. Grab my free Low-Anxiety Investing "
-            f"Blueprint at the link in my bio and let's automate your strategy today."
-        )
+    # 3. Structure the data payload for the Streamlit App
+    payload = {
+        "last_updated": datetime.now().strftime("%Y-%m-%d %I:%M %p EST"),
+        "market_vibe": "Bullish" if any(details["change"] > 0 for details in market_data.values()) else "Bearish",
+        "market_data": market_data,
+        "daily_script": script
+    }
     
-    output_filename = "business_bundle.json"
-    with open(output_filename, "w") as f:
-        json.dump(market_data, f, indent=4)
+    # 4. Save to business_bundle.json (Streamlit frontend pulls from this)
+    print("💾 Saving updated bundle to business_bundle.json...")
+    with open("business_bundle.json", "w") as f:
+        json.dump(payload, f, indent=4)
         
-    print(f"🎉 Success! Fresh live data package saved to {output_filename}.\n")
+    # 5. Save script separately to daily_script.txt (for maker.py)
+    print("📝 Saving daily video script to daily_script.txt...")
+    with open("daily_script.txt", "w") as f:
+        f.write(script)
+        
+    print("🚀 All pipeline jobs completed successfully!")
 
 if __name__ == "__main__":
     main()
