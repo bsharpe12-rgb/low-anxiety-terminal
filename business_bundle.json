@@ -1,13 +1,22 @@
 {
-    "market_trend": "lost roughly 0.17%",
-    "sectors_jumped": [
-        "Financials (XLF) (+0.41%)",
-        "Healthcare (XLV) (+0.71%)"
-    ],
-    "sectors_dipped": [
-        "Technology (XLK) (-2.33%)",
-        "Energy (XLE) (-1.00%)"
-    ],
-    "top_etf": "S-C-H-D",
-    "daily_voiceover_script": "The stock market saw some major moves today. While certain growth sectors surged ahead, defensive areas saw a brief dip as investors rotated capital. As a beginner, chasing these daily jumps is a trap. Instead of trying to time the market, rely on consistent, broad-market anchors like S-C-H-D to build secure, long-term wealth. Grab my free Low-Anxiety Investing Blueprint at the link in my bio and let's automate your strategy today."
+    "last_updated": "2026-07-16 09:00 PM EST",
+    "market_vibe": "Bearish",
+    "market_data": {
+        "S&P 500": {
+            "ticker": "SPY",
+            "price": 750.72,
+            "change": -0.54
+        },
+        "Nasdaq": {
+            "ticker": "QQQ",
+            "price": 705.94,
+            "change": -1.64
+        },
+        "XRP": {
+            "ticker": "XRP-USD",
+            "price": 1.1,
+            "change": -1.44
+        }
+    },
+    "daily_script": "(Video opens with high energy music and a friendly, confident host looking directly at the camera)\n\n**HOST:** Alright, market movers! Let's jump into today's vibe, no panic here!\n\nSPY, our broad market buddy, took a tiny dip, down just half a percent. The tech-heavy Nasdaq felt it a bit more, dropping around 1.6%. And even XRP in crypto-land mirrored that tech move, easing back 1.4%.\n\nSo yeah, a touch of red across the board today. But honestly? Nothing to stress over if you're building those long-term bags. This is just the market taking a quick breath. These are normal days! Keep your eyes on the horizon, not the daily noise!\n\nWant to track this zero-panic? Our free terminal is linked!"
 }
