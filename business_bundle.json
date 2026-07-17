@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-16 09:00 PM EST",
+    "last_updated": "2026-07-17 02:48 PM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 750.72,
-            "change": -0.54
+            "price": 746.26,
+            "change": -0.59
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 705.94,
-            "change": -1.64
+            "price": 697.05,
+            "change": -1.26
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.1,
-            "change": -1.44
+            "price": 1.08,
+            "change": -0.39
         }
     },
-    "daily_script": "(Video opens with high energy music and a friendly, confident host looking directly at the camera)\n\n**HOST:** Alright, market movers! Let's jump into today's vibe, no panic here!\n\nSPY, our broad market buddy, took a tiny dip, down just half a percent. The tech-heavy Nasdaq felt it a bit more, dropping around 1.6%. And even XRP in crypto-land mirrored that tech move, easing back 1.4%.\n\nSo yeah, a touch of red across the board today. But honestly? Nothing to stress over if you're building those long-term bags. This is just the market taking a quick breath. These are normal days! Keep your eyes on the horizon, not the daily noise!\n\nWant to track this zero-panic? Our free terminal is linked!"
+    "daily_script": "(Video opens with a high-energy, friendly presenter looking directly at the camera)\n\nAlright market fam, let\u2019s get into today\u2019s vibe, no panic required!\n\nSPY dipped a gentle 0.59%, chilling at $746.26. Our tech friends over at QQQ saw a slightly bigger wave, down 1.26% to $697.05. And for the crypto crew, XRP just barely nudged, down 0.39% to $1.08.\n\nSo, what\u2019s the mood? A little red across the board, but nothing to get worked up about for your long-term bags. Think of it as a slight market breather. We\u2019re still planting seeds for growth, right? This is just regular market movement. Keep that long-term vision clear.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
 }
