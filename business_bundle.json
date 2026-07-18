@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-18 12:01 PM EST",
+    "last_updated": "2026-07-18 02:22 PM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
@@ -15,8 +15,8 @@
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.09,
-            "change": -0.02
+            "change": -0.14
         }
     },
-    "daily_script": "*(Video opens with an energetic, upbeat intro graphic and music. Host appears, smiling and confident.)*\n\n**Host:** \"Alright team, let's hit today's market vibe! SPY took a little breath, down just under 1%, and the Nasdaq, QQQ, felt it a bit more, dipping 1.5%. Totally normal, folks! Just a shakeout, not a meltdown. Remember, dips are part of the long game\u2014they shake out the weak hands and make room for bigger wins. Meanwhile, our crypto friend XRP? Chillin' like a villain, practically flat today. So, don't sweat the small stuff. Keep building those bags, stay focused on the horizon. Today's just another day in the journey, not the destination. Want to track this stress-free? Check our free, low-anxiety terminal\u2014link is pinned!\"\n\n*(Video ends with a quick graphic displaying the terminal link and branding, music fades.)*"
+    "daily_script": "(Video opens with energetic, upbeat music and a friendly, confident host looking directly at the camera)\n\n\"Alright team, let's talk today's market vibe! SPY, our big market tracker, dipped just under 1% today. Tech, with QQQ, saw a slightly bigger dip, down about 1.5%. No major drama here \u2013 just typical market wiggles.\n\nAnd for our crypto crew, XRP is basically flat, down a tiny 0.14%. So, no wild swings anywhere! It's just another day to keep your eyes on the long game. Don't let the daily noise distract you from building those future bags!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!\"\n\n(Music swells slightly, fades out)"
 }
