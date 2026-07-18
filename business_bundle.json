@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-17 02:48 PM EST",
+    "last_updated": "2026-07-18 12:01 PM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 746.26,
-            "change": -0.59
+            "price": 743.29,
+            "change": -0.99
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 697.05,
-            "change": -1.26
+            "price": 695.33,
+            "change": -1.5
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.08,
-            "change": -0.39
+            "price": 1.09,
+            "change": -0.02
         }
     },
-    "daily_script": "(Video opens with a high-energy, friendly presenter looking directly at the camera)\n\nAlright market fam, let\u2019s get into today\u2019s vibe, no panic required!\n\nSPY dipped a gentle 0.59%, chilling at $746.26. Our tech friends over at QQQ saw a slightly bigger wave, down 1.26% to $697.05. And for the crypto crew, XRP just barely nudged, down 0.39% to $1.08.\n\nSo, what\u2019s the mood? A little red across the board, but nothing to get worked up about for your long-term bags. Think of it as a slight market breather. We\u2019re still planting seeds for growth, right? This is just regular market movement. Keep that long-term vision clear.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "*(Video opens with an energetic, upbeat intro graphic and music. Host appears, smiling and confident.)*\n\n**Host:** \"Alright team, let's hit today's market vibe! SPY took a little breath, down just under 1%, and the Nasdaq, QQQ, felt it a bit more, dipping 1.5%. Totally normal, folks! Just a shakeout, not a meltdown. Remember, dips are part of the long game\u2014they shake out the weak hands and make room for bigger wins. Meanwhile, our crypto friend XRP? Chillin' like a villain, practically flat today. So, don't sweat the small stuff. Keep building those bags, stay focused on the horizon. Today's just another day in the journey, not the destination. Want to track this stress-free? Check our free, low-anxiety terminal\u2014link is pinned!\"\n\n*(Video ends with a quick graphic displaying the terminal link and branding, music fades.)*"
 }
