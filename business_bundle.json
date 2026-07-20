@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-19 02:25 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-07-20 03:15 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 743.29,
-            "change": -0.99
+            "price": 744.63,
+            "change": 0.18
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 695.33,
-            "change": -1.5
+            "price": 699.47,
+            "change": 0.6
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.09,
-            "change": -0.01
+            "price": 1.1,
+            "change": 0.79
         }
     },
-    "daily_script": "**(Video opens with an energetic, modern graphic. Creator is direct to camera, smiling, high energy but calm.)**\n\nAlright team, quick market vibe check!\n\nToday, the major stocks took a little breather. SPY dipped almost 1%, and Nasdaq, with all its tech, took a slightly bigger hit, down 1.5%. Think of it as a tiny speed bump. Nothing to lose sleep over for your long-term bag.\n\nAnd XRP? It barely blinked, down just 0.01%. Practically flat.\n\nSo, today's vibe? Just a little cool-down. Markets ebb and flow. Stay calm, stay stacking.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "**(Video opens with fast-paced, upbeat, low-key music and a friendly, energetic host)**\n\nAlright, what's the market *vibe* today for your long-term bags? Let's dive in!\n\nSPY, that broad market bellwether, is up a chill 0.18% to $744.63. Just steady as she goes. Tech's got a bit more bounce: QQQ is up 0.6% to $699.47 \u2013 nice pop there for the Nasdaq!\n\nAnd for our crypto crew? XRP is also catching a nice breeze, up 0.79% to $1.1.\n\nSo, the overall feeling? Green, calm, and forward momentum. No drama, just consistent growth for your future. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
 }
