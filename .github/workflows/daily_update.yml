@@ -2,7 +2,6 @@ name: Daily Market Data Sync
 
 on:
   schedule:
-    # Runs automatically every day at 8:00 AM EST (13:00 UTC)
     - cron: '20 20 * * *'
   workflow_dispatch: # Allows you to also trigger it manually from GitHub
 
