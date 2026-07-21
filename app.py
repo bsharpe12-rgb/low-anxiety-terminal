@@ -97,8 +97,8 @@ st.markdown("<p style='text-align: center; color: #64748b; margin-bottom: 40px;'
 # ==========================================
 st.markdown("### 🟢 Today's Market Vibe")
 
-if data and "daily_voiceover_script" in data:
-    vibe_text = data["daily_voiceover_script"]
+if data and "daily_script" in data:
+    vibe_text = data["daily_script"]
 else:
     vibe_text = (
         "The S&P 500 is breathing normally. Smart money is quietly rotating "
