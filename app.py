@@ -72,6 +72,7 @@ st.markdown("""
 # ==========================================
 # 2. LOAD DATA FROM YOUR DATA ENGINE
 # ==========================================
+@st.cache_data(ttl=0)
 def load_market_data(json_path="business_bundle.json"):
     if os.path.exists(json_path):
         try:
