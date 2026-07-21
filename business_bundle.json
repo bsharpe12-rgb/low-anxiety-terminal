@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-20 03:15 PM EST",
+    "last_updated": "2026-07-21 12:13 AM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 744.63,
-            "change": 0.18
+            "price": 742.09,
+            "change": -0.16
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 699.47,
-            "change": 0.6
+            "price": 696.06,
+            "change": 0.1
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.1,
-            "change": 0.79
+            "price": 1.11,
+            "change": 141.47
         }
     },
-    "daily_script": "**(Video opens with fast-paced, upbeat, low-key music and a friendly, energetic host)**\n\nAlright, what's the market *vibe* today for your long-term bags? Let's dive in!\n\nSPY, that broad market bellwether, is up a chill 0.18% to $744.63. Just steady as she goes. Tech's got a bit more bounce: QQQ is up 0.6% to $699.47 \u2013 nice pop there for the Nasdaq!\n\nAnd for our crypto crew? XRP is also catching a nice breeze, up 0.79% to $1.1.\n\nSo, the overall feeling? Green, calm, and forward momentum. No drama, just consistent growth for your future. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "(Upbeat, slightly pulsing intro music fades quickly)\n\nAlright, Future Millionaires, let\u2019s check the pulse! Today felt like two different markets, right? SPY, our trusty S&P 500, dipped just a hair, down 0.16%. QQQ, the Nasdaq, nudged up 0.1%. So, basically, our broader market cruise control is still on. Nothing wild there\u2014just steady accumulation vibes.\n\nBUT THEN! Did you see XRP? Whoa! Up a mind-blowing 141% today! If you\u2019ve been patiently holding that bag, huge congrats! That\u2019s what long-term plays are all about.\n\nSo, a mixed bag for the big guys, but a rocket ship for crypto. The daily ebb and flow for our bags!\n\nWant to track this stress-free? Hit the pinned link for our free market terminal."
 }
