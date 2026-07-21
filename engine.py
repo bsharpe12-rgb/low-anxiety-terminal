@@ -71,6 +71,7 @@ TONE & STYLE RULES:
 2. Speak directly to regular people trying to build long-term bags.
 3. No complex jargon or dry financial reporting. Explain the "vibe" of the market today.
 4. Keep the script under 130 words total so it comfortably fits a 60-second runtime.
+5. Output ONLY spoken voiceover text. Do NOT include stage directions, visual notes, cues in parentheses, or markdown formatting like **.
 
 CRITICAL RULE FOR THE OUTRO (MANDATORY CTA):
 You must end the script with a very quick, natural, low-friction call-to-action (CTA) directing viewers to check out our free Streamlit market terminal (https://low-anxiety-terminal.streamlit.app/). Keep the CTA under 15 words.
