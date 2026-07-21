@@ -73,7 +73,9 @@ st.markdown("""
 # 2. LOAD DATA FROM YOUR DATA ENGINE
 # ==========================================
 @st.cache_data(ttl=0)
-def load_market_data(json_path="business_bundle.json"):
+def load_market_data():
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    json_path = os.path.join(BASE_DIR, "business_bundle.json")
     if os.path.exists(json_path):
         try:
             with open(json_path, "r") as f:
