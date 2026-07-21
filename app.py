@@ -109,7 +109,7 @@ else:
 st.markdown(f"""
     <div class="trader-card">
         <p style="font-size: 1.1rem; line-height: 1.6; color: #cbd5e1; margin: 0;">
-            "{vibe_text}"
+            {vibe_text.replace('\n','<br>')}
         </p>
     </div>
 """, unsafe_allow_html=True)
