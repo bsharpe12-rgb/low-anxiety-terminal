@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-20 4:13 PM EST",
+    "last_updated": "2026-07-21 09:35 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 742.09,
-            "change": -0.16
+            "price": 748.28,
+            "change": 0.83
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 696.06,
-            "change": 0.1
+            "price": 708.97,
+            "change": 1.85
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.11,
-            "change": 141.47
+            "price": 1.15,
+            "change": 3.11
         }
     },
-    "daily_script": "(Upbeat, slightly pulsing intro music fades quickly)\n\nAlright, Future Millionaires, let\u2019s check the pulse! Today felt like two different markets, right? SPY, our trusty S&P 500, dipped just a hair, down 0.16%. QQQ, the Nasdaq, nudged up 0.1%. So, basically, our broader market cruise control is still on. Nothing wild there\u2014just steady accumulation vibes.\n\nBUT THEN! Did you see XRP? Whoa! Up a mind-blowing 141% today! If you\u2019ve been patiently holding that bag, huge congrats! That\u2019s what long-term plays are all about.\n\nSo, a mixed bag for the big guys, but a rocket ship for crypto. The daily ebb and flow for our bags!\n\nWant to track this stress-free? Hit the pinned link for our free market terminal."
+    "daily_script": "**(Video opens with an energetic beat and dynamic on-screen graphics of green arrows)**\n\nAlright, market fam, let's talk vibes! Today? We're seeing green across the board!\n\nYour S&P 500 bag got a solid bump, up nearly a percent. Tech went wild\u2014Nasdaq surged almost two percent! That's the growth pushing those portfolios forward. Even crypto got a treat: XRP jumped over three percent today!\n\nOverall, a fantastic, low-stress day for building long-term wealth. No drama, just smooth, upward momentum. Remember, stay calm, stay consistent. Days like today are gentle nudges that consistency pays off. Keep those bags growing!\n\nTrack your bag stress-free? Our free terminal is linked below!"
 }
