@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-21 06:37 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-07-22 10:32 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 748.28,
-            "change": 0.83
+            "price": 747.41,
+            "change": -0.12
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 708.97,
-            "change": 1.85
+            "price": 705.35,
+            "change": -0.51
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.14,
-            "change": 2.68
+            "change": -0.09
         }
     },
-    "daily_script": "Alright, what a day! Markets feeling great! Your S&P 500, that's SPY, ticked up 0.83% to 748.28. Nice! Nasdaq, QQQ, brought the energy, jumping 1.85% to 708.97. Serious green for growth plays! XRP doing its own thing too, up 2.68% to 1.14! So whether it's broad markets, tech, or crypto, today felt like a tailwind for your long-term bags. Steady momentum building, zero panic. Consistent effort wins! Track this stress-free? Check our free market terminal\u2014link is pinned!"
+    "daily_script": "Quick market check-in! What's the vibe today for your long-term bags? The S&P 500, our broad market friend, is barely down point-one-two percent. Nasdaq, our tech-heavy hitter, just half a percent dip. And crypto's XRP? Almost flat, down point-zero-nine. So what's the vibe? Pretty chill. Your bags are just taking a tiny breather after yesterday's grind. Nothing to panic about, just a mellow, sideways day. Perfect for DCA or just holding strong. Track this stress-free and calculate your growth on our free terminal. Link is pinned!"
 }
