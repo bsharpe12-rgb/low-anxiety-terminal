@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-22 10:32 PM EST",
+    "last_updated": "2026-07-23 09:30 PM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 747.41,
-            "change": -0.12
+            "price": 738.18,
+            "change": -1.23
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 705.35,
-            "change": -0.51
+            "price": 691.96,
+            "change": -1.9
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.14,
-            "change": -0.09
+            "price": 1.11,
+            "change": -2.79
         }
     },
-    "daily_script": "Quick market check-in! What's the vibe today for your long-term bags? The S&P 500, our broad market friend, is barely down point-one-two percent. Nasdaq, our tech-heavy hitter, just half a percent dip. And crypto's XRP? Almost flat, down point-zero-nine. So what's the vibe? Pretty chill. Your bags are just taking a tiny breather after yesterday's grind. Nothing to panic about, just a mellow, sideways day. Perfect for DCA or just holding strong. Track this stress-free and calculate your growth on our free terminal. Link is pinned!"
+    "daily_script": "What's the market *vibe* today? Alright, if you're building a long-term bag, let\u2019s keep it chill. We're seeing some red across the board, but zero panic. SPY and QQQ, your usual market movers, are dipping a bit, taking a breather. Even XRP is cooling off a touch.\n\nThink of it as the market hitting the pause button, not the eject button. These days are just part of the ride when you\u2019re playing the long game. Don't stress the daily swings; focus on the consistent growth.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
