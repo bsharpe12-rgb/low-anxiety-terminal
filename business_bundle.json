@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-23 09:30 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-07-24 09:32 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 738.18,
-            "change": -1.23
+            "price": 738.93,
+            "change": 0.1
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 691.96,
-            "change": -1.9
+            "price": 684.23,
+            "change": -1.12
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.11,
-            "change": -2.79
+            "price": 1.09,
+            "change": -1.55
         }
     },
-    "daily_script": "What's the market *vibe* today? Alright, if you're building a long-term bag, let\u2019s keep it chill. We're seeing some red across the board, but zero panic. SPY and QQQ, your usual market movers, are dipping a bit, taking a breather. Even XRP is cooling off a touch.\n\nThink of it as the market hitting the pause button, not the eject button. These days are just part of the ride when you\u2019re playing the long game. Don't stress the daily swings; focus on the consistent growth.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, team! Let's check today's market vibe!\n\nYour S&P 500, tracking SPY, barely moved\u2014up a tiny 0.1%. Super chill, practically flat for your long-term bag. Nasdaq, though, QQQ took a breather, down just over 1%. Tech's consolidating, which is totally normal. And for our crypto crew, XRP saw a bit more of a dip, down 1.55%. Standard crypto volatility doing its thing. So, a mixed, consolidating day. Nothing wild to sweat if you're building those consistent bags.\n\nTap the pinned link for our free market terminal!"
 }
