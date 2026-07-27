@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-26 09:14 PM EST",
+    "last_updated": "2026-07-27 09:32 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": NaN,
-            "change": NaN
+            "price": 739.09,
+            "change": 0.02
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": NaN,
-            "change": NaN
+            "price": 682.12,
+            "change": -0.31
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.1,
-            "change": 0.25
+            "price": 1.09,
+            "change": -2.17
         }
     },
-    "daily_script": "What's up, money builders? Let's check the vibes! Today, the big broad market's taking a breather. SPY and QQQ are still figuring themselves out, a real holding pattern for the indexes. But hey, XRP is nudging past that one-dollar-ten mark, holding steady with a point two five percent gain. That's a nice little green flicker, proving that even on quieter days, those long-term bags keep gently growing. No wild swings today, just steady progress for the patient. Keep building!\n\nCheck today's vibe on our free terminal\u2014link is pinned!"
+    "daily_script": "Alright, market fam, let's get the daily vibe check! SPY today? Chillin' at $739.09, barely tickin' up 0.02%. Your broad market is just... vibing. Now, QQQ, our tech-heavy buddy, is down a tiny bit, $682.12, off 0.31%. Just taking a little breather, totally normal. But XRP? That's our biggest move today, at $1.09, down 2.17%. Crypto's feeling a bit of a pull-back. Overall? No drama. Just another day in the market, nothing to stress about. Keep building those bags! Want to track this stress-free? Check our free terminal \u2013 link is pinned!"
 }
