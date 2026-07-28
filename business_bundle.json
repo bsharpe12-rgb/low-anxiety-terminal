@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-28 12:53 AM EST",
+    "last_updated": "2026-07-28 08:56 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 739.09,
-            "change": 0.02
+            "price": 740.86,
+            "change": 0.24
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 682.12,
-            "change": -0.31
+            "price": 675.49,
+            "change": -0.97
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.06,
-            "change": -439.53
+            "change": -0.33
         }
     },
-    "daily_script": "Hey bag builders, let's get into today's market pulse! Your S&P 500, SPY, basically hit snooze, up a tiny 0.02%. Our tech-heavy Nasdaq, QQQ, took a super small breather, down just 0.31%. Stocks are pretty chill, folks. Nothing to panic about there. Now, XRP... crypto being crypto, it had a wild ride today, now at $1.06. Just classic digital asset volatility showing up. Remember, patience is key for those long-term bags! So, mostly calm seas for stocks, a little choppiness in crypto. Keep your eyes on the horizon, not the hourly waves. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, let's hit today's market vibe check for your long-term bag! SPY, our S&P 500, nudged up a small 0.24% \u2013 a gentle climb. But Nasdaq, our tech-heavy QQQ, took a nearly 1% breather. Nothing wild, just a little re-set. XRP also eased back a tiny bit, down 0.33%. So, today's vibe? Super chill. No drama, just normal market flow. Remember, we're building long-term. These daily wobbles are just noise while we stack. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
 }
