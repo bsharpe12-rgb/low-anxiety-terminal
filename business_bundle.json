@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-28 09:34 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-07-29 09:15 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 740.86,
-            "change": 0.24
+            "price": 729.46,
+            "change": -1.54
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 675.49,
-            "change": -0.97
+            "price": 661.73,
+            "change": -2.04
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.06,
-            "change": -0.14
+            "price": 1.07,
+            "change": 0.0
         }
     },
-    "daily_script": "Yo, market crew! Let\u2019s get today\u2019s vibe check! SPY, our broad market buddy, is up a sweet 0.24% \u2013 steady climb, loving that green! But over in tech land, Nasdaq took a little breather, down almost a percent. Just a tiny dip, nothing wild, probably some rebalancing. And crypto? XRP is basically flat, just chilling at $1.06. So, a little mixed energy out there, but seriously, keep cool. We\u2019re still building long-term bags. No panic necessary. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "Alright, market fam! Let's break down today's vibe, no sweat.\n\nYour big hitters, the S&P and Nasdaq, took a little dip, down around one-and-a-half to two percent. Think of it as the market just stretching, shaking things out. We saw some tech stocks cool off a bit, maybe some folks taking profits\u2014totally normal. But for your long-term bag, this is just noise. And get this, XRP? It just held its ground, totally flat.\n\nSo, today wasn't a green wave, but it was far from a panic. Just another day building that wealth.\n\nCheck today's vibe and calculate your bag on our free, zero-panic market terminal\u2014link is pinned!"
 }
