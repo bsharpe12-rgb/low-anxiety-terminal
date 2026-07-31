@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-07-30 09:36 PM EST",
+    "last_updated": "2026-07-31 09:32 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 741.69,
-            "change": 1.68
+            "price": 747.03,
+            "change": 0.72
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 683.55,
-            "change": 3.3
+            "price": 687.99,
+            "change": 0.65
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.08,
-            "change": 1.07
+            "price": 1.06,
+            "change": -1.92
         }
     },
-    "daily_script": "Alright team, listen up! Today's market? Green, green, and more green! Your long-term bags are getting some serious love. SPY up a solid one point six eight percent, but hold up, Nasdaq crushed it, jumping three point three percent! Tech was absolutely flexing today. Even XRP joined the party, up a respectable one point zero seven percent. So, big picture? A fantastic, low-stress day for building wealth. No drama, just steady gains for your future. Want to track this stress-free? Tap the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "Alright, market heads, let's talk vibes for your long-term bag! Today, the big boys are looking solid green. Your S&P 500, that's SPY, up a nice 0.72% at $747.03. And Nasdaq, QQQ, right there with it, climbing 0.65% to $687.99. We're seeing steady, consistent gains in the traditional markets \u2013 exactly what we love for building wealth without the drama.\n\nNow, over to crypto corner. XRP, ticker XRP-USD, dipped a tiny bit, down 1.92% to $1.06. Just crypto being crypto, right? A little wiggle, but nothing to sweat if you're holding for the long haul.\n\nOverall vibe? Traditional markets are humming along nicely, while crypto brings its usual rollercoaster. Stay calm, stay focused on your compound growth. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
