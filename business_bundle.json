@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-05 09:37 PM EST",
+    "last_updated": "2026-08-07 12:56 AM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 769.79,
-            "change": -0.2
+            "price": 768.56,
+            "change": -0.16
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 717.3,
-            "change": -0.9
+            "price": 714.65,
+            "change": -0.37
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.06,
-            "change": -0.89
+            "price": 1.03,
+            "change": -252.43
         }
     },
-    "daily_script": "Alright team, let's hit today's market vibe, fast and zero stress!\n\nSPY, our broad market, barely blinked, down just 0.2%. Literally a shrug.\n\nBut Nasdaq, our tech powerhouse, felt it more, dipping 0.9%. Tech had a slightly tougher day.\n\nAnd XRP? Our crypto play also pulled back 0.9%, mirroring that tech sentiment.\n\nSo, the vibe today? Mild red, nothing crazy. Just a little breather. For long-term bag builders, it's just another day to stay chill and stick to the plan.\n\nTrack today's numbers stress-free? Tap the pinned link for our free market terminal!"
+    "daily_script": "Alright, market movers! What's the vibe today? SPY and QQQ are just chilling out, down less than half a percent. Barely a blip for your long-term bag. Just another day for dollar-cost averaging, right? Now, XRP? The data shows a truly wild ride, reportedly down over two hundred percent today. That's a massive, massive shake-up! But hey, for the big picture, most of the market is just taking a breather. Keep your eyes on the prize and stay calm. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
