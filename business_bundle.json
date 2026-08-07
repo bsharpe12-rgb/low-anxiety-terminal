@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-07 12:56 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-08-07 09:03 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 768.56,
-            "change": -0.16
+            "price": 773.26,
+            "change": 0.61
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 714.65,
-            "change": -0.37
+            "price": 723.03,
+            "change": 1.17
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.03,
-            "change": -252.43
+            "price": 1.02,
+            "change": -0.85
         }
     },
-    "daily_script": "Alright, market movers! What's the vibe today? SPY and QQQ are just chilling out, down less than half a percent. Barely a blip for your long-term bag. Just another day for dollar-cost averaging, right? Now, XRP? The data shows a truly wild ride, reportedly down over two hundred percent today. That's a massive, massive shake-up! But hey, for the big picture, most of the market is just taking a breather. Keep your eyes on the prize and stay calm. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright bag builders, let's talk today's market vibe! S&P 500 up a solid 0.61% \u2013 SPY closing strong at $773.26. That's a green light for the big picture! Nasdaq, our tech-heavy hitter, popped even harder, up 1.17%! QQQ sitting pretty at $723.03. Tech's feeling good! Now, XRP. After some wild rides, it's just catching its breath today, down 0.85% at $1.02. Totally normal, totally chill. So, stocks are looking healthy, Nasdaq leading the charge, and crypto just taking a quick power nap. A good day to be a long-term holder! Track your bag stress-free! Our free market terminal is linked. Go build that wealth!"
 }
