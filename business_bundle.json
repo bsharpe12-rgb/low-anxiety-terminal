@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-10 09:05 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-08-11 09:07 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 773.03,
-            "change": -0.03
+            "price": 770.56,
+            "change": -0.32
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 720.87,
-            "change": -0.3
+            "price": 718.45,
+            "change": -0.34
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.02,
-            "change": -0.98
+            "change": 0.57
         }
     },
-    "daily_script": "Alright, bag builders! What's the market vibe today? The S&P, tracking SPY, barely moved, literally flat at $773.03. That's a snooze fest. Nasdaq, QQQ, saw a tiny slip of 0.3% to $720.87. We're talking micro-dips here. And crypto? XRP-USD dipping just under one percent to $1.02. Still holding that dollar line like a champ! So, the overall mood? Mostly sideways. A perfect day to breathe, stay low-anxiety, and keep building those long-term bags with conviction. No drama, just consistent progress. Track today's vibe stress-free? Get our free terminal\u2014link is pinned!"
+    "daily_script": "Alright money builders, let's talk about today's market vibe!\n\nThe big boys, SPY and QQQ, both saw a tiny dip, just around one-third of a percent. Nothing crazy, just a little breather. If you\u2019re building long-term, these are the days you just shrug and keep moving. No panic buttons needed here.\n\nNow, XRP bucked that trend slightly, ticking up over half a percent. Always interesting to see some crypto action against the wider market's ebb and flow.\n\nOverall, it\u2019s a calm, slightly red day for the broad market, but nothing that changes the long game. Just another Tuesday in your journey to build those bags. Stay focused!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
 }
