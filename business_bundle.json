@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-12 09:06 PM EST",
+    "last_updated": "2026-08-13 09:08 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 772.49,
-            "change": 0.25
+            "price": 777.88,
+            "change": 0.7
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 723.7,
-            "change": 0.73
+            "price": 732.07,
+            "change": 1.16
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.01,
-            "change": -1.4
+            "change": 0.47
         }
     },
-    "daily_script": "Alright, what's the market vibe today? Let's get into it! Your traditional bags are looking pretty solid. SPY, the S&P 500, up a quarter percent to $772.49. Nasdaq, QQQ, really shining, climbing nearly three-quarters of a percent to $723.70. Tech doing its thing, pushing those numbers up! Now, crypto's a bit mixed. XRP is taking a small breather, down one point four percent to $1.01. But hey, that's just a regular Tuesday for digital assets. No panic here for long-term builders. Overall, a nice dose of green for stocks, with crypto doing its own thing. Keep that long-term vision clear! Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, what's the market doing today? SPY's up 0.7%, hitting 777.88 \u2013 nice! Nasdaq, the tech power-up, popped even harder, up 1.16% to 732.07. So, that's our vibe: green across the board, feeling steady and strong, especially in tech. Even XRP got in on the action, ticking up 0.47% to a dollar and change. No drama, just consistent moves. Today feels like a smooth ride for anyone just stacking their long-term bags. It's not about the daily fireworks, it's about that consistent upward trajectory. Track this stress-free? Our free, no-nonsense market terminal is linked!"
 }
