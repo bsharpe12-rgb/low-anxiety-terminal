@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-15 08:42 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-08-16 08:42 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
@@ -15,8 +15,8 @@
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.0,
-            "change": 0.45
+            "change": -0.35
         }
     },
-    "daily_script": "Alright, Bag Builders! Let's get a vibe check on the market today.\n\nSPY and QQQ just took a quick breather, down barely anything \u2013 0.2% and 0.14%. Seriously, yawn. Not even a blip for your long-term plays. But XRP? It's catching a small bid, up 0.45% at a cool dollar. Nice little win there.\n\nSo, what's the vibe? Super chill. A low-anxiety day perfect for setting up those future gains. No drama, just steady building.\n\nTrack today's numbers stress-free! Our free Streamlit terminal is in the pinned link."
+    "daily_script": "Alright team, let\u2019s talk market vibe today! Quick check-in: SPY, QQQ, and even XRP are all just taking a little breather. We're talking minor dips, barely there. SPY down point-two percent, QQQ a hair less, and XRP just a touch.\n\nNo drama here, folks. It's not a panic, it's just a normal day of gentle market movement. If you're building your long-term bags, today\u2019s movements are just background noise. Keep that low-anxiety mindset. We\u2019re still in this for the long haul, growing those bags steadily.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense terminal."
 }
