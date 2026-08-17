@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-16 08:42 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-08-17 08:47 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 776.34,
-            "change": -0.2
+            "price": 772.67,
+            "change": -0.47
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 731.07,
-            "change": -0.14
+            "price": 729.87,
+            "change": -0.16
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.0,
-            "change": -0.35
+            "change": 1.11
         }
     },
-    "daily_script": "Alright team, let\u2019s talk market vibe today! Quick check-in: SPY, QQQ, and even XRP are all just taking a little breather. We're talking minor dips, barely there. SPY down point-two percent, QQQ a hair less, and XRP just a touch.\n\nNo drama here, folks. It's not a panic, it's just a normal day of gentle market movement. If you're building your long-term bags, today\u2019s movements are just background noise. Keep that low-anxiety mindset. We\u2019re still in this for the long haul, growing those bags steadily.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense terminal."
+    "daily_script": "Alright, what's the market *vibe* today? Wall Street took a tiny breather. The S&P 500 and Nasdaq both saw a small dip, less than half a percent down. Think of it as the market just tying its shoelaces before the next run. Nothing wild, no panic alarms here for your long-term bags. But hey, while the big guys were chilling, XRP decided to shine, jumping over one percent! See? Even on quieter days, there's always action. This is just market noise folks, keep stacking. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
