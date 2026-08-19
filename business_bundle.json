@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-18 08:43 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-08-19 08:48 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 767.45,
-            "change": -0.68
+            "price": 769.06,
+            "change": 0.21
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 717.51,
-            "change": -1.69
+            "price": 716.08,
+            "change": -0.2
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.0,
-            "change": -0.23
+            "price": 1.09,
+            "change": 8.73
         }
     },
-    "daily_script": "Alright, market movers! Let's get straight to today's vibe. SPY took a tiny breather, down just under 0.7% \u2013 nothing wild there. Nasdaq, QQQ, felt it a bit more, dipping about 1.7%. Just a little shakeout, perfectly normal in the long game. And XRP? Barely moved, chilling at a dollar. So, if you're building those long-term bags, today was just another day in the market's beautiful dance. Don't sweat the small stuff, focus on the big picture. Remember, every dip is just a new entry point for compounding. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, bag builders, let's talk today's market vibe! Big picture? We saw a little tug-of-war. SPY edged up a tiny 0.21%, while the tech-heavy QQQ dipped just 0.2%. Basically, traditional markets are chilling, playing it cool. But then BAM! XRP totally stole the show, exploding up over 8.7% today! That's a serious move for the crypto folks. So while the broad market is catching its breath, specific sectors like crypto are still making waves. Keep stacking those long-term bags, folks! Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
