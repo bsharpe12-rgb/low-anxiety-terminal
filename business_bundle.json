@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-23 08:43 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-08-24 08:52 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 765.72,
-            "change": 0.41
+            "price": 763.47,
+            "change": -0.29
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 713.44,
-            "change": 0.35
+            "price": 706.32,
+            "change": -1.0
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.5,
-            "change": 2.48
+            "price": 1.48,
+            "change": -3.05
         }
     },
-    "daily_script": "Alright future bag builders, what\u2019s the vibe today? Super smooth sailing! SPY and Nasdaq? Just chilling, both up around point-four percent. Think nice, steady cruise control for your long-term game. No drama, just consistent green. But hold up! XRP is doing its own thing, popping off with a solid two-point-four-eight percent gain! That\u2019s a sweet little bounce for the crypto crew. So, big picture? Everything's looking good, zero panic. Just another day building that wealth, stress-free. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, let's talk today's market vibe \u2013 low anxiety, always.\n\nThe S&P 500, SPY, just a tiny dip, barely noticeable down point two-nine percent. Think speed bump, not roadblock.\n\nNow, our tech-heavy Nasdaq, QQQ, felt it more, down one percent. Normal for tech, they move with more bounce.\n\nAnd XRP? Crypto doing its thing, down just over three percent. For your long-term bag, these are normal waves. No panic, just stick to your plan. Market breathes, we breathe easy.\n\nTrack this stress-free? Tap the pinned link for our free market terminal!"
 }
