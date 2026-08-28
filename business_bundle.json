@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-26 11:43 PM EST",
+    "last_updated": "2026-08-28 04:23 AM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 766.08,
-            "change": 0.02
+            "price": 771.1,
+            "change": 0.66
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 711.37,
-            "change": 0.09
+            "price": 721.11,
+            "change": 1.37
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.42,
-            "change": -0.81
+            "price": 1.43,
+            "change": 174.63
         }
     },
-    "daily_script": "Alright, future millionaires! Quick market vibe check. Today? Super chill.\n\nThe S&P 500 and Nasdaq are basically hitting snooze. Up a tiny fraction, so your big market bags are just holding steady. No drama there, just a calm day for the giants.\n\nCrypto-wise, XRP is taking a small breather, down less than a percent. Completely normal stuff. Nothing to sweat if you're building long.\n\nBasically, the market's just enjoying a quiet Tuesday. No wild swings, no panic buttons needed. Just steady, consistent growth vibes for your long-term plays. Track your bag stress-free! Hit the pinned link for our free market terminal."
+    "daily_script": "Alright team, let's talk today's market vibe! SPY and Nasdaq are cruising nicely, up around 0.6% and 1.3%. Good day for the long-term compounders, just steadily building those bags.\n\nBut hold up, XRP just went absolutely wild, exploding over 170% today! That's the crypto roller coaster in full effect. Serious action if you're into altcoins.\n\nKeep your eyes on the long game, but enjoy the ride when it gets spicy! Track today's vibe and your bag on our free terminal. Link pinned!"
 }
