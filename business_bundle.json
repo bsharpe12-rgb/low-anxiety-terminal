@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-08-31 11:55 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-09-01 10:39 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 767.05,
-            "change": -0.3
+            "price": 761.78,
+            "change": -0.69
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 716.76,
-            "change": 0.05
+            "price": 707.64,
+            "change": -1.27
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.38,
-            "change": 156.15
+            "price": 1.34,
+            "change": -2.58
         }
     },
-    "daily_script": "Alright future millionaires, what's the market vibe today? The big index funds, SPY and Nasdaq, are mostly just cruising. A tiny dip, a tiny bump. No drama for your long-term bag building. But then\u2026 XRP just went absolutely wild, jumping over 150 percent! Talk about a crypto rocket! So yeah, calm waters everywhere else, but a real party in the alt-coins. Stay cool out there!\n\nCheck today's vibe and run your numbers on our free terminal\u2014link is pinned!"
+    "daily_script": "Alright team, let\u2019s talk markets! Today we saw a little red, but absolutely nothing to panic about if you\u2019re building those long-term bags.\n\nThe S&P 500 dipped less than one percent, and the Nasdaq followed, down just over a point. Totally normal market wobble, folks. Even crypto felt it, with XRP taking a two and a half percent dip today.\n\nSo yeah, a touch of red on the screens, but for us long-term players, this is just another opportunity. Keep that low-anxiety mindset.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
