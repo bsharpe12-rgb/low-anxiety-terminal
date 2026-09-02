@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-01 10:39 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-09-02 10:42 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 761.78,
-            "change": -0.69
+            "price": 765.16,
+            "change": 0.44
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 707.64,
-            "change": -1.27
+            "price": 709.24,
+            "change": 0.23
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.34,
-            "change": -2.58
+            "price": 1.35,
+            "change": -0.44
         }
     },
-    "daily_script": "Alright team, let\u2019s talk markets! Today we saw a little red, but absolutely nothing to panic about if you\u2019re building those long-term bags.\n\nThe S&P 500 dipped less than one percent, and the Nasdaq followed, down just over a point. Totally normal market wobble, folks. Even crypto felt it, with XRP taking a two and a half percent dip today.\n\nSo yeah, a touch of red on the screens, but for us long-term players, this is just another opportunity. Keep that low-anxiety mindset.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what's the market vibe today? Let's check those bags! The S&P 500 is looking good, up a solid 0.44% to $765.16. Nasdaq followed suit, climbing 0.23% to hit $709.24. So your traditional stocks and ETFs? Cruising smoothly, looking like a green light for those long-term plays. Over on the crypto side, XRP is taking a tiny breather, down just 0.44% to $1.35. Nothing wild, just a little dip. Overall, it's a chill, low-anxiety day. Steady gains in stocks, crypto catching its breath. No drama, just consistent progress for your portfolio. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
