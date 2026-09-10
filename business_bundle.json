@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-09 10:37 PM EST",
+    "last_updated": "2026-09-10 10:39 PM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 762.4,
-            "change": -0.46
+            "price": 757.83,
+            "change": -0.6
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 716.31,
-            "change": -0.29
+            "price": 708.69,
+            "change": -1.06
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.39,
-            "change": -1.71
+            "price": 1.35,
+            "change": -3.49
         }
     },
-    "daily_script": "Alright, market movers! Little bit of red today, but absolutely zero panic for our long-term bag builders. SPY, the S&P 500, just dipped 0.46% to $762. And the tech-heavy Nasdaq, QQQ, down only 0.29% to $716. Just a gentle nudge down. Crypto's XRP saw a little more wobble, off 1.71% to $1.39. So, today's vibe? A totally normal, minor pullback. Nothing to stress about. Keep stacking those assets! Want to track it stress-free? Our free terminal helps. Link pinned!"
+    "daily_script": "Alright, fam, let's talk market vibes! Today? We're seeing a little splash of red, but nothing to get stressed about. SPY took a tiny breather, just a fractional dip. Nasdaq, your tech heavy-hitter, pulled back a little over one percent. And crypto? XRP felt it a bit more, down just under three and a half percent.\n\nThink of it as the market just taking a quick stretch. For those building long-term bags, these are just normal waves. Keep your calm, stick to the plan. No panic moves, just steady growth. This is business as usual!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
