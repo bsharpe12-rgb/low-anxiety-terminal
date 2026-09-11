@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-10 10:39 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-09-11 10:39 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 757.83,
-            "change": -0.6
+            "price": 764.29,
+            "change": 0.85
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 708.69,
-            "change": -1.06
+            "price": 714.88,
+            "change": 0.87
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.35,
-            "change": -3.49
+            "change": 1.27
         }
     },
-    "daily_script": "Alright, fam, let's talk market vibes! Today? We're seeing a little splash of red, but nothing to get stressed about. SPY took a tiny breather, just a fractional dip. Nasdaq, your tech heavy-hitter, pulled back a little over one percent. And crypto? XRP felt it a bit more, down just under three and a half percent.\n\nThink of it as the market just taking a quick stretch. For those building long-term bags, these are just normal waves. Keep your calm, stick to the plan. No panic moves, just steady growth. This is business as usual!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, let's talk today's market vibe! We saw some nice, steady green across the board. Your big index bags, SPY and QQQ? Both climbed over 0.8%, with SPY hitting $764 and QQQ at $714. That's a confident step up, perfect for anyone building long-term wealth. And for the crypto crew, XRP is also in the green, up 1.27% to $1.35. The message today is clear: no panic, just consistent, positive momentum. A great day to be building those future bags, stress-free. Track this stress-free? Hit the pinned link for our free market terminal!"
 }
