@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-14 11:12 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-09-15 10:57 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 760.88,
-            "change": -0.45
+            "price": 757.39,
+            "change": -0.46
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 709.18,
-            "change": -0.8
+            "price": 704.54,
+            "change": -0.65
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.43,
-            "change": 6.68
+            "price": 1.29,
+            "change": -9.34
         }
     },
-    "daily_script": "Alright, money movers, let's talk today's market vibe! Your S&P 500, SPY, just took a little breath, down point four-five percent. Nasdaq's QQQ, your tech heavy hitters, dipped a bit more at point eight percent. Nothing crazy, just a Tuesday reset for the big players. But hold up! XRP, the crypto disruptor, decided to flex, jumping a massive six point six-eight percent today! So while stocks took a slight pause, crypto brought the energy. For those building long-term, it's just another day to stay cool and keep stacking your bags. Track this stress-free? Get our free market terminal\u2014link is pinned!"
+    "daily_script": "Alright team, what's the market vibe today? The big market engines, SPY and QQQ, both took a tiny step back, less than one percent each. Totally normal pit stop for your long-term growth. Now, crypto felt a bit more of a tug. XRP dipped almost ten percent today. Digital assets doing their thing, always remember volatility is part of the journey. So, nothing to sweat, just a regular day of ups and downs. Keep stacking those bags without the drama. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
