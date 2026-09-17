@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-15 10:57 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-09-17 10:53 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 757.39,
-            "change": -0.46
+            "price": 762.6,
+            "change": 1.13
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 704.54,
-            "change": -0.65
+            "price": 716.92,
+            "change": 1.73
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.29,
-            "change": -9.34
+            "change": -0.46
         }
     },
-    "daily_script": "Alright team, what's the market vibe today? The big market engines, SPY and QQQ, both took a tiny step back, less than one percent each. Totally normal pit stop for your long-term growth. Now, crypto felt a bit more of a tug. XRP dipped almost ten percent today. Digital assets doing their thing, always remember volatility is part of the journey. So, nothing to sweat, just a regular day of ups and downs. Keep stacking those bags without the drama. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what's the market vibe today? Let's dive in! Today, the big players are feeling good. The S&P 500, your SPY, climbed over one percent to 762 bucks. But tech stocks? They're on fire! Nasdaq's QQQ popped an awesome 1.73 percent, hitting 716. So, big stocks are soaring, looking strong for your long-term bag. Now, over in crypto-land, XRP's playing a different tune, just nudging down a tiny bit to $1.29. Crypto's doing its own dance, as always. Overall, a green day for the broader market, just another day building that wealth! Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
