@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-09-18 10:39 PM EST",
+    "last_updated": "2026-09-19 10:21 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
             "price": 761.69,
-            "change": -0.12
+            "change": 0.13
         },
         "Nasdaq": {
             "ticker": "QQQ",
@@ -15,8 +15,8 @@
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.4,
-            "change": 7.7
+            "change": 0.43
         }
     },
-    "daily_script": "Market rundown, let's go! Your long-term bags staying steady? SPY barely blinked today, just a whisper down. But the Nasdaq, QQQ, totally lit, up 0.63%! Tech's showing that hustle. And XRP? Boom! Up a massive 7.7% to $1.40! Crypto's making moves, people. Today's vibe: steady equities, tech climbing, and crypto doing its thing. No stress, just growth. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "Alright legends, what\u2019s the market vibe today? No drama, just steady gains for your long-term bag!\n\nSPY, our main man, chilling at $761, up a calm 0.13%. Just cruising along, doing its thing. Nice and easy.\n\nThen QQQ, the tech powerhouse, flexing at $721, up a solid 0.63%! Tech definitely having a good day, pushing that growth.\n\nAnd for our crypto crew, XRP at $1.40, a sweet 0.43% bump. Holding steady, looking good.\n\nBasically, green across the board, no panic, just consistent moves. Your bags are appreciating!\n\nTrack your bag stress-free? Check our free market terminal\u2014link pinned!"
 }
