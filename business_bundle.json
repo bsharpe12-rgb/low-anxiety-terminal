@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-20 10:32 PM EST",
+    "last_updated": "2026-09-21 11:22 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 761.69,
-            "change": 0.13
+            "price": 773.5,
+            "change": 1.55
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 721.45,
-            "change": 0.63
+            "price": 741.47,
+            "change": 2.77
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.41,
-            "change": -0.05
+            "price": 1.55,
+            "change": 9.79
         }
     },
-    "daily_script": "What's up, future millionaires! Let's dive into today's market vibe. SPY, the market's pulse, gave us a chill 0.13% bump. And your tech plays in QQQ? Up a nice 0.63%. So, mainstream markets are looking green and easy \u2013 no panic, just consistent moves for your long-term bag. And XRP in the crypto world? Barely registered a tiny dip, down just 0.05%. Honestly, that's flat, folks \u2013 nothing to lose sleep over. Today\u2019s takeaway? Steady as she goes. A perfectly calm day for building wealth stress-free. Want to track this stress-free? Our free market terminal is linked for you!"
+    "daily_script": "Alright, bag builders, let\u2019s talk vibes! Today? It\u2019s a green wave! Your S&P 500, that\u2019s your SPY, cruising up over one-and-a-half percent. And tech, that\u2019s your QQQ, absolutely soaring, up almost three percent! We\u2019re seeing some serious momentum here. But hold up, the real party? That\u2019s XRP! This coin is ripping nearly ten percent today! So if you\u2019re stacking long-term, enjoying those growth numbers, today\u2019s looking good. It\u2019s a reminder: consistency pays off. Keep building your future. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
