@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-22 11:01 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-09-23 10:59 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 773.38,
-            "change": -0.02
+            "price": 767.81,
+            "change": -0.72
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 747.46,
-            "change": 0.81
+            "price": 741.21,
+            "change": -0.84
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.57,
-            "change": 2.58
+            "price": 1.5,
+            "change": -4.49
         }
     },
-    "daily_script": "Alright, market update! SPY's just chilling today, practically flat. Taking a breather. But QQQ, oh man, Nasdaq's buzzing! Tech names are pushing, almost a full percent up. And XRP? Crypto's having a moment \u2013 that thing popped over 2.5% today! So, a mix: steady big caps, but tech and crypto are definitely bringing the energy. Good day if you're building those growth bags. Want to track stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, let's talk market vibes! Stocks took a tiny breather today. SPY and QQQ dipped less than a percent\u2014no drama, just a little shuffle. Nothing to lose sleep over for your long-term bags.\n\nXRP, though? It saw a bit more action, down over four percent. Crypto gonna crypto, right? For us building wealth, days like these are just opportunities to zoom out. Don't sweat the small stuff. Keep that long-term vision locked in.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
