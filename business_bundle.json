@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-24 11:15 PM EST",
+    "last_updated": "2026-09-25 11:20 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 767.18,
-            "change": -0.08
+            "price": 771.35,
+            "change": 0.54
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 741.1,
-            "change": -0.01
+            "price": 744.5,
+            "change": 0.46
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.53,
-            "change": 2.03
+            "price": 1.57,
+            "change": 2.23
         }
     },
-    "daily_script": "Alright, bag builders, let's talk today's market vibe! S&P 500 and Nasdaq? Basically horizontal lines. SPY barely dipped point-zero-eight percent; QQQ a tiny point-zero-one. This is a chill day for the big guys, almost a pause. Perfect for steady hands. But hold up, XRP is showing some life, jumping over two percent to hit a dollar fifty-three! So, while stocks are catching their breath, crypto\u2019s got a little bounce. No drama, just some gentle shifts. Keep building those bags, stress-free. Want to track this low-anxiety? Hit the pinned link for our free market terminal!"
+    "daily_script": "Alright future millionaires, what's the market vibe today? Green! SPY and QQQ both clocking in nice, steady gains around half a percent. That's your long-term bags getting a comfortable little lift, no drama, just consistent growth. And over in crypto land, XRP is having a fantastic day, popping over two percent! If you're building out that digital asset portfolio, today feels good. Overall, a calm, positive climb across the board. Nothing wild, just steady progress for your money. Love to see it. Track this stress-free? Hit the pinned link for our free, no-nonsense terminal."
 }
