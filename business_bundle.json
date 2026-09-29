@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-29 12:25 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-09-29 11:46 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": NaN,
-            "change": NaN
+            "price": 764.2,
+            "change": -0.18
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": NaN,
-            "change": NaN
+            "price": 737.93,
+            "change": 0.19
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.49,
-            "change": -139.32
+            "change": -0.41
         }
     },
-    "daily_script": "Alright, bag builders, let's talk today's market vibe! The big indexes \u2013 S&P and Nasdaq \u2013 are giving us a little... pause. Or maybe the data just needs a nap. And XRP? Showing some pretty wild swings! Some days the short-term charts just get a little glitchy, right? But here\u2019s the truth: for us long-term players, this is just background noise. Keep focusing on that consistent compound growth. Don\u2019t let the daily drama distract you from building real wealth over time. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright future millionaires, let's get into today's market vibe! SPY, your broad market, just chilling down a tiny 0.18%. Nothing to sweat. QQQ, our tech titan, saw a slight bump, up 0.19%. Tech's still doing its thing, quietly. And crypto crew, XRP dipped a little, 0.41%. But seriously, it\u2019s a calm day across the board. Just tiny moves. Keep building those bags, stay focused on the long game. This isn't a day for panic, it's a day for patience. Want to track this stress-free? Tap the pinned link for our free, low-anxiety market terminal."
 }
