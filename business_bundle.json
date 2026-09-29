@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-27 11:07 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-09-29 12:25 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 771.35,
-            "change": 0.54
+            "price": NaN,
+            "change": NaN
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 744.5,
-            "change": 0.46
+            "price": NaN,
+            "change": NaN
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.51,
-            "change": -1.29
+            "price": 1.49,
+            "change": -139.32
         }
     },
-    "daily_script": "Alright future millionaires, let's check the money vibe for today! Your big stock indexes, the S&P and Nasdaq, are flexing gently. SPY and QQQ both nudged up about half a percent. That's just quietly adding to those long-term bags, nice and steady. Over in crypto, XRP took a tiny breather, down just over a percent. Nothing wild, just a little ebb in the flow. So today? Mostly green lights for traditional assets, and a small pause for some crypto. Keep building, stay chill. This is how compound growth works, folks \u2013 one steady day at a time. Wanna track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "Alright, bag builders, let's talk today's market vibe! The big indexes \u2013 S&P and Nasdaq \u2013 are giving us a little... pause. Or maybe the data just needs a nap. And XRP? Showing some pretty wild swings! Some days the short-term charts just get a little glitchy, right? But here\u2019s the truth: for us long-term players, this is just background noise. Keep focusing on that consistent compound growth. Don\u2019t let the daily drama distract you from building real wealth over time. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
