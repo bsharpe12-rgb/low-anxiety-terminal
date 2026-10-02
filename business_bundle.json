@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-09-30 11:57 PM EST",
+    "last_updated": "2026-10-02 11:51 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 762.63,
-            "change": -0.21
+            "price": 769.64,
+            "change": 0.74
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 739.77,
-            "change": 0.25
+            "price": 749.58,
+            "change": 1.02
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.49,
-            "change": -0.13
+            "change": -0.54
         }
     },
-    "daily_script": "Alright crew, let's talk today's market vibe \u2013 super quick, super chill.\n\nYour broad market S&P 500, SPY, just dipped a tiny bit, down point-two-one percent. Nothing to lose sleep over. But guess what? Tech-heavy Nasdaq, QQQ, actually nudged up point-two-five percent. So, a bit of a tug-of-war, but mostly flat.\n\nAnd for our crypto folks, XRP, a slight wobble, down point-one-three percent. Again, tiny moves. No drama today, just chill consolidations. Basically, the market's just doing its thing, taking a breath. Perfect day for long-term thinkers to just observe, not react.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what's the market telling us today? Good news on the stock side! The S&P 500 is up a nice 0.74%, closing strong. Our tech-heavy Nasdaq crushed it even harder, soaring 1.02%. So if your bags are in broad market funds or tech, you're probably smiling! But hey, it wasn't all green. XRP dipped slightly by 0.54%. Remember, daily wiggles are totally normal. Stay calm, zoom out, and keep building for the long haul. No panic, just consistent moves. Want to track this stress-free? Check today's vibe and your numbers on our free terminal\u2014link pinned!"
 }
