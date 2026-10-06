@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-06 01:20 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-10-06 11:53 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": NaN,
-            "change": NaN
+            "price": 779.09,
+            "change": 0.55
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": NaN,
-            "change": NaN
+            "price": 759.66,
+            "change": 0.46
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.51,
-            "change": -88.14
+            "price": 1.5,
+            "change": -0.62
         }
     },
-    "daily_script": "Hey everyone, quick market vibe check! Broader markets are still shaping up, so we'll dive into those details as they firm up. But today, the spotlight is definitely on crypto, specifically XRP. We're seeing a wild one here, down a massive eighty-eight percent. Yeah, you heard that right. This is one of those days that really tests the long-term builders. Remember, crypto is volatile. For those with a solid plan, today is about conviction and looking at the bigger picture, not panicking over a single day's swing. Stay calm, stay focused on your strategy, and don't let the short-term noise shake your long-term bag. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright money movers, let's talk market vibes! Today? It was a steady climb for your major players. The S&P 500 kept building, nudging up over half a percent. Nasdaq, our tech engine, also saw green, pushing forward nicely. So far, so good for those long-term bags! Now, for the crypto corner, XRP saw a slight dip. A little choppy there, but hey, that's crypto life, right? Overall, a pretty chill, forward-moving day for the big indices. Just another day in the grind of building wealth, no drama needed. Keep that long game strong. Want to track this stress-free? Our free market terminal is linked below!"
 }
