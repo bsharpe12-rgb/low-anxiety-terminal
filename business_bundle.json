@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-04 11:17 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-10-06 01:20 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 769.64,
-            "change": 0.74
+            "price": NaN,
+            "change": NaN
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 749.58,
-            "change": 1.02
+            "price": NaN,
+            "change": NaN
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.52,
-            "change": 2.41
+            "price": 1.51,
+            "change": -88.14
         }
     },
-    "daily_script": "Alright fam, let's talk market vibe! Today was a sweet little climb across the board. The S&P 500 and Nasdaq both saw solid gains, pushing up 0.74% and a full 1.02% respectively. Good day for your long-term stock bags!\n\nBut crypto stole the show! XRP jumping an impressive 2.41% today. So yeah, pretty much everything looking green, feeling good. Another step closer to those financial goals, stress-free. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "Hey everyone, quick market vibe check! Broader markets are still shaping up, so we'll dive into those details as they firm up. But today, the spotlight is definitely on crypto, specifically XRP. We're seeing a wild one here, down a massive eighty-eight percent. Yeah, you heard that right. This is one of those days that really tests the long-term builders. Remember, crypto is volatile. For those with a solid plan, today is about conviction and looking at the bigger picture, not panicking over a single day's swing. Stay calm, stay focused on your strategy, and don't let the short-term noise shake your long-term bag. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
