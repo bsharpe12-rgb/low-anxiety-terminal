@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-06 11:53 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-10-08 12:15 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 779.09,
-            "change": 0.55
+            "price": NaN,
+            "change": NaN
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 759.66,
-            "change": 0.46
+            "price": NaN,
+            "change": NaN
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.5,
-            "change": -0.62
+            "price": 1.42,
+            "change": -510.35
         }
     },
-    "daily_script": "Alright money movers, let's talk market vibes! Today? It was a steady climb for your major players. The S&P 500 kept building, nudging up over half a percent. Nasdaq, our tech engine, also saw green, pushing forward nicely. So far, so good for those long-term bags! Now, for the crypto corner, XRP saw a slight dip. A little choppy there, but hey, that's crypto life, right? Overall, a pretty chill, forward-moving day for the big indices. Just another day in the grind of building wealth, no drama needed. Keep that long game strong. Want to track this stress-free? Our free market terminal is linked below!"
+    "daily_script": "Alright fam, quick market check-in! Today's vibe? A real mixed bag, especially if you're watching crypto.\n\nTraditional markets, your S&P and Nasdaq, felt a little... undecided. Not much to get excited or worried about there, just kinda chillin'.\n\nBut XRP? Wow. It's flashing numbers that look like they broke the calculator, currently at $1.42. Some seriously choppy waters out there, reminding us crypto can throw curveballs you don't expect.\n\nThis isn't about panic; it's about understanding the wild ride. So, keep that long-term vision sharp. Days like these are tests, not final exams. Stick to your plan, don't let the noise shake you.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
