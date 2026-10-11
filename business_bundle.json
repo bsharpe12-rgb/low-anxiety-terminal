@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-10 11:39 PM EST",
+    "last_updated": "2026-10-11 11:44 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
@@ -14,9 +14,9 @@
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.4,
-            "change": 0.58
+            "price": 1.41,
+            "change": 0.53
         }
     },
-    "daily_script": "Alright, market movers! Let's get today's vibe check \u2013 quick, easy, and no stress.\n\nWhat's the word? Big picture, your S&P 500 and Nasdaq are flexing some muscle, both up a solid half-percent today. SPY chilling at 778, QQQ at 751. We\u2019re talking steady green, folks. No fireworks, just consistent upward grind for your long-term bags.\n\nAnd for the crypto crew? XRP is right there with 'em, climbing almost 0.6% to 1.40. So yeah, across the board, it's a calm, collected upward drift. No panic, just progress. Keep building, keep growing.\n\nTrack this stress-free? Check our free, no-nonsense market terminal \u2013 link pinned!"
+    "daily_script": "Alright, money builders, let's grab today's market vibe! It's looking green across the board, another solid day. SPY, tracking the S&P 500, climbed 0.6% to $778.57. QQQ, our Nasdaq friend, gained 0.49%, hitting $751.27. Even XRP jumped in, up 0.53% to $1.41! What's the low-anxiety takeaway? Keep stacking, keep building. These small, consistent moves are how we grow those long-term bags. No drama, just progress. Want to track this stress-free? Get our free, no-nonsense market terminal\u2014link pinned!"
 }
