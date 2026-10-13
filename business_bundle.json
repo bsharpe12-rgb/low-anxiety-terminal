@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-13 02:06 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-10-13 11:45 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 778.1,
-            "change": -0.06
+            "price": 778.01,
+            "change": -0.01
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 746.04,
-            "change": -0.7
+            "price": 743.57,
+            "change": -0.33
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.35,
-            "change": -367.13
+            "price": 1.37,
+            "change": 1.95
         }
     },
-    "daily_script": "Alright, market movers, let's get into today's vibe, no sweat! Your S&P 500? Barely budged, still cruising along. Nasdaq took a tiny breather, just a little dip to catch its breath. But XRP? Whoa. Today was a serious, deep red day for crypto. A truly massive plunge! That\u2019s just the rollercoaster, right? Overall, a quiet day for stocks, a wild one for some digital assets. Remember, it\u2019s all about the long game. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, quick market check, no sweat! Your big market movers, the S&P and Nasdaq, are basically just chilling out today. SPY's flat, QQQ dipped a tiny bit \u2013 nothing that changes your long-term game plan. But XRP? That crypto bag is feeling good, up almost two percent! Nice little pop there. So, stocks are consolidating, crypto's got a little pep. Today feels like a \"steady as she goes\" kind of day for your long-term plays. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
