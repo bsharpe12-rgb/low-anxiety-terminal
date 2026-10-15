@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-14 11:18 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-10-15 11:06 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 769.6,
-            "change": -1.08
+            "price": 771.79,
+            "change": 0.28
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 728.95,
-            "change": -1.97
+            "price": 728.0,
+            "change": -0.13
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.33,
-            "change": -2.37
+            "change": 0.33
         }
     },
-    "daily_script": "Alright team, let's talk markets! Another dip day, but remember, every dip is a chance to sharpen your long-term vision.\n\nYour S&P 500, that's SPY, dipped about one percent today. Nasdaq's tech-heavy QQQ took a slightly bigger hit, down almost two percent. Basically, a little red across the board for the big guys. And for our crypto crew, XRP also pulled back, down a couple percent to around $1.33.\n\nSo, a quiet pullback everywhere. Nothing wild, just another day to zoom out and remember why you\u2019re building your bag for the long haul. Keep that compound growth mindset locked in!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "What\u2019s the vibe today? Super chill! Your S&P 500 bag, SPY, nudged up a cool 0.28 percent. Nasdaq, QQQ, took a tiny step back, down 0.13 percent. No drama there! And for our crypto crew, XRP kept it steady, up 0.33 percent. Basically, it\u2019s a \"keep building, nothing to see here\" kinda day. Just cruising, stacking those long-term gains without the stress. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
