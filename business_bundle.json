@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-15 11:06 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-10-16 10:53 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 771.79,
-            "change": 0.28
+            "price": 763.25,
+            "change": -1.11
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 728.0,
-            "change": -0.13
+            "price": 709.8,
+            "change": -2.5
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.33,
-            "change": 0.33
+            "price": 1.31,
+            "change": -1.89
         }
     },
-    "daily_script": "What\u2019s the vibe today? Super chill! Your S&P 500 bag, SPY, nudged up a cool 0.28 percent. Nasdaq, QQQ, took a tiny step back, down 0.13 percent. No drama there! And for our crypto crew, XRP kept it steady, up 0.33 percent. Basically, it\u2019s a \"keep building, nothing to see here\" kinda day. Just cruising, stacking those long-term gains without the stress. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright folks, let's talk markets! Today? A little chill in the air, but absolutely no drama. SPY dipped just over one percent, hitting 763. Nasdaq, our tech friend QQQ, took a bigger breath, down two and a half percent to 709. Even crypto felt it, with XRP around 1.31, down almost two percent. Basically, it\u2019s a pullback across the board. For us long-term builders, this is just a normal market day. Keep that perspective, keep building those bags. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
