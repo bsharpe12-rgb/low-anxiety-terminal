@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-17 10:26 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-10-18 10:28 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
@@ -14,9 +14,9 @@
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.29,
-            "change": -1.45
+            "price": 1.3,
+            "change": 0.3
         }
     },
-    "daily_script": "Alright, market movers! Let's get into today's market vibe \u2013 and no, there's zero reason to sweat. Yeah, we saw some red across the board, but for long-term builders like us, it's just another Tuesday. SPY dipped a hair over one percent. Our tech-heavy QQQ took a bigger breather, down two and a half percent. Even XRP joined the chill-out session, down one point four five percent. See it as the market taking a quick power nap. Perfect for dollar-cost averaging, or just knowing your long-term bag is getting ready to rock. Keep your eyes on the prize! Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, let's talk market vibes! Today? A little dip, but no panic button needed. SPY pulled back just over one percent, and the tech-heavy Nasdaq took a two-and-a-half percent breather. Totally normal stuff, especially for us long-term bag builders. Nothing crazy to stress over here. But check this out: XRP is doing its own thing, up a tiny bit today, bucking the trend! See? Even on red days, there's always something moving. Keep your eyes on the prize. Track this stress-free? Our free market terminal is linked!"
 }
