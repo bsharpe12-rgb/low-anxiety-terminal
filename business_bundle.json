@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-18 10:28 PM EST",
+    "last_updated": "2026-10-19 11:47 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 763.25,
-            "change": -1.11
+            "price": 766.48,
+            "change": 0.42
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 709.8,
-            "change": -2.5
+            "price": 718.36,
+            "change": 1.21
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.3,
-            "change": 0.3
+            "change": -0.12
         }
     },
-    "daily_script": "Alright team, let's talk market vibes! Today? A little dip, but no panic button needed. SPY pulled back just over one percent, and the tech-heavy Nasdaq took a two-and-a-half percent breather. Totally normal stuff, especially for us long-term bag builders. Nothing crazy to stress over here. But check this out: XRP is doing its own thing, up a tiny bit today, bucking the trend! See? Even on red days, there's always something moving. Keep your eyes on the prize. Track this stress-free? Our free market terminal is linked!"
+    "daily_script": "Alright, bag builders, let's talk today's market vibe! SPY\u2019s up a solid 0.42%\u2014just cruising along. But QQQ, oh baby, Nasdaq surged 1.21% today! Tech is definitely feeling the energy, putting in work for those long-term gains. Meanwhile, XRP is taking a breather, down a tiny 0.12%\u2014crypto's just chilling, no drama there. Overall? A nice green day to stack those bags without breaking a sweat. Markets looking good, folks. Don\u2019t panic, just keep building. Track this stress-free? Get our free market terminal\u2014link pinned!"
 }
