@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-22 11:27 PM EST",
+    "last_updated": "2026-10-23 11:13 PM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 763.96,
-            "change": -1.18
+            "price": 759.97,
+            "change": -0.52
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 704.47,
-            "change": -2.86
+            "price": 704.4,
+            "change": -0.01
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.31,
-            "change": -4.23
+            "price": 1.28,
+            "change": -1.92
         }
     },
-    "daily_script": "Alright team, let's hit today's market vibe! Your S&P 500, that SPY you know, took a chill pill, down just over 1%. Meanwhile, the tech-heavy Nasdaq, QQQ, felt it a bit more, dipping nearly 3%. And XRP, riding the crypto rollercoaster, saw a bigger pullback, down over 4% today. So, what's the takeaway? A broad market cool-down. Think of it as hitting the reset button. Totally normal for those building long-term bags. Don't sweat the small stuff, just keep your eyes on the prize. Track this stress-free? Our free market terminal link is pinned!"
+    "daily_script": "Alright, money builders, let's check today's market vibe! Barely a blip, nothing for your long-term bag to sweat.\n\nThe S&P 500, SPY, just dipped a whisper: down 0.52%. Taking a breath! Our tech-heavy Nasdaq, QQQ, practically flatlined \u2013 down a tiny 0.01%. Holding strong!\n\nOver in crypto, XRP moved a bit more, down 1.92%. But hey, just a regular Tuesday in digital assets, right?\n\nBottom line: a mellow day. Perfect for building wealth, not chasing every tick. Stay cool, stay consistent.\n\nTrack this stress-free? Hit the pinned link for our free market terminal!"
 }
