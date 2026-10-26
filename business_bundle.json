@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-25 10:38 PM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-10-26 11:56 PM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 759.97,
-            "change": -0.52
+            "price": 765.37,
+            "change": 0.71
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 704.4,
-            "change": -0.01
+            "price": 712.2,
+            "change": 1.11
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.3,
-            "change": 0.0
+            "price": 1.31,
+            "change": 1.0
         }
     },
-    "daily_script": "Alright future millionaires, let's talk market vibes! Today? Mostly a snooze, but with a tiny ripple. The S&P 500, your big picture, dipped a gentle half percent. Nothing to sweat if you're building those long-term bags. Nasdaq, our tech giant, barely moved \u2013 like, a hundredth of a percent. Super chill. And XRP? Just sitting pretty at one-point-three bucks, literally zero movement. So, no drama, no panic. Just another day for smart money to keep stacking. Don't stress the daily noise, focus on your growth. Track today's vibe on our free market terminal \u2013 link's pinned!"
+    "daily_script": "Alright, money builders! Let's hit today's market vibe! It's a beautiful green wave, absolutely no drama today. Your S&P 500, SPY, just cruising, up 0.71% to $765! And tech, QQQ? Leading the charge, popping over one percent! Even XRP is feeling the love, up a solid one percent at $1.31. Today's just good energy, perfect for stacking those long-term bags with zero stress. No panic, just progress!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
