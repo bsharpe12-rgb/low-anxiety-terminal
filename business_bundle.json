@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-26 11:56 PM EST",
+    "last_updated": "2026-10-27 11:51 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 765.37,
-            "change": 0.71
+            "price": 769.66,
+            "change": 0.56
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 712.2,
-            "change": 1.11
+            "price": 721.25,
+            "change": 1.27
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.31,
-            "change": 1.0
+            "price": 1.33,
+            "change": 1.91
         }
     },
-    "daily_script": "Alright, money builders! Let's hit today's market vibe! It's a beautiful green wave, absolutely no drama today. Your S&P 500, SPY, just cruising, up 0.71% to $765! And tech, QQQ? Leading the charge, popping over one percent! Even XRP is feeling the love, up a solid one percent at $1.31. Today's just good energy, perfect for stacking those long-term bags with zero stress. No panic, just progress!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright team, quick market vibe check! No panic, just progress!\n\nYour broad market S&P 500, SPY, is up a chill 0.56% today, sitting at $769.66. Then your tech-heavy Nasdaq, QQQ, flexing a nice 1.27% gain, hitting $721.25. So traditional stocks? Looking solid, smooth sailing.\n\nAnd for our crypto crew, XRP pushing harder, up 1.91% to $1.33! Today\u2019s vibe? Definitely green across the board! A solid, low-stress building day for your bags.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
 }
