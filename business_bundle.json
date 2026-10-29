@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-10-27 11:51 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-10-29 12:03 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 769.66,
-            "change": 0.56
+            "price": NaN,
+            "change": NaN
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 721.25,
-            "change": 1.27
+            "price": NaN,
+            "change": NaN
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.33,
-            "change": 1.91
+            "price": 1.32,
+            "change": -16.58
         }
     },
-    "daily_script": "Alright team, quick market vibe check! No panic, just progress!\n\nYour broad market S&P 500, SPY, is up a chill 0.56% today, sitting at $769.66. Then your tech-heavy Nasdaq, QQQ, flexing a nice 1.27% gain, hitting $721.25. So traditional stocks? Looking solid, smooth sailing.\n\nAnd for our crypto crew, XRP pushing harder, up 1.91% to $1.33! Today\u2019s vibe? Definitely green across the board! A solid, low-stress building day for your bags.\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal!"
+    "daily_script": "Alright future millionaires, let's talk market vibe! Today, the broad stock market mostly kept its cool. SPY and QQQ chilling, doing their thing. But crypto? Whoa, XRP definitely had some fireworks, dipping over 16% to $1.32! Yeah, a tough day if you're watching minute-by-minute. But for us long-term bag builders? This is just volatility doing its thing. Remember, zooming out is key. Stay disciplined, stick to your plan, and see these dips as potential entry points, not panic alarms. Build smart, not fast. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
