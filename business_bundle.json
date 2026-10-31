@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-30 11:54 PM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-10-31 11:28 PM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
@@ -15,8 +15,8 @@
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.25,
-            "change": 1.55
+            "change": -0.38
         }
     },
-    "daily_script": "Alright team, let's hit today's market vibe! Stocks felt a little soft. The S&P 500, SPY, dipped almost 1.8% to 755. Nasdaq, QQQ, saw a steeper drop, down 3.47% to 690. Totally normal! Don't stress, long-term builders know these moments. Now, for some independent action: crypto had a different story! XRP, XRP-USD, actually popped 1.55%, hitting 1.25. So, traditional markets cooled, but XRP pushed up. Remember, patience wins. Keep building your bag! Track your long game, stress-free. Our free market terminal is pinned!"
+    "daily_script": "Alright, what\u2019s the market vibe today? The S&P 500, that\u2019s your SPY, took a little breather, down 1.77%. Nothing wild, just shaking things up a bit. Now, over to tech, our Nasdaq, QQQ \u2013 that one felt it more, dropping 3.47%. A bit of a tumble there, but these things happen. On the crypto side, XRP? Super chill. Down only 0.38%, basically shrugging off the whole day. So, while stocks are catching their breath, crypto\u2019s just doing its own thing. Remember, these are just snapshots. Stay focused on those long-term bags. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
