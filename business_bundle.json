@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-03 02:25 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-11-04 12:40 AM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": NaN,
-            "change": NaN
+            "price": 754.35,
+            "change": 0.3
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": NaN,
-            "change": NaN
+            "price": 685.28,
+            "change": 0.62
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.25,
-            "change": -23.18
+            "price": 1.26,
+            "change": 57.66
         }
     },
-    "daily_script": "What's the market vibe today? Well, traditional stocks like the S&P and Nasdaq are playing it cool, not much major drama unfolding right now. But if you're holding crypto, specifically XRP, you might be seeing a bit of a tumble. XRP is down over 23% today, sitting around $1.25. Now, for us long-term bag builders, remember: these dips are part of the game. Don't sweat the short-term noise. It\u2019s about building over time. Keep your eyes on the big picture. Stay calm and carry on. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what a day! Let's get straight to today's market vibe.\n\nYour S&P 500, that big ol' fund, cruised up just 0.3%. Nasdaq, our tech friend, nudged up a solid 0.62%. Traditional markets saying, \"Hey, we're slowly building that bag, no drama!\"\n\nBut wait... crypto just exploded! XRP, ticker XRP-USD, just absolutely ROCKETED up over FIFTY-SEVEN PERCENT! Trading at $1.26. That's a massive, attention-grabbing jump for the digital assets crew today.\n\nSo, a calm climb for stocks, but a wild ride in crypto! A truly mixed bag of market energy. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
