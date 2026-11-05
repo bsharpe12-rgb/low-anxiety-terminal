@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-04 12:40 AM EST",
+    "last_updated": "2026-11-05 12:56 AM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 754.35,
-            "change": 0.3
+            "price": 766.81,
+            "change": 1.65
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 685.28,
-            "change": 0.62
+            "price": 691.95,
+            "change": 0.97
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.26,
-            "change": 57.66
+            "price": 1.3,
+            "change": 354.08
         }
     },
-    "daily_script": "Alright, what a day! Let's get straight to today's market vibe.\n\nYour S&P 500, that big ol' fund, cruised up just 0.3%. Nasdaq, our tech friend, nudged up a solid 0.62%. Traditional markets saying, \"Hey, we're slowly building that bag, no drama!\"\n\nBut wait... crypto just exploded! XRP, ticker XRP-USD, just absolutely ROCKETED up over FIFTY-SEVEN PERCENT! Trading at $1.26. That's a massive, attention-grabbing jump for the digital assets crew today.\n\nSo, a calm climb for stocks, but a wild ride in crypto! A truly mixed bag of market energy. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what's up bag builders? Let's check the vibe today! The market was feeling good, chill even. SPY, our trusty S&P 500, cruised up a cool 1.65%. Nasdaq tech, QQQ, wasn't far behind, gaining almost a percent. So stocks had a solid, stress-free green day. But hold up, here's the wild card! XRP, that crypto darling, just went absolutely BONKERS! We're talking a mind-blowing 354% surge today! Talk about making moves! Today felt like steady wins with one monster breakout. Keep building those bags smart. Want to track this stress-free? Hit the pinned link for our free, no-nonsense terminal."
 }
