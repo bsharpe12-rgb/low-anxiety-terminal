@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07 11:40 PM EST",
+    "last_updated": "2026-11-08 11:47 PM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
@@ -14,9 +14,9 @@
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.16,
-            "change": -1.61
+            "price": 1.12,
+            "change": -4.0
         }
     },
-    "daily_script": "Alright fam, let's dive into today's market vibe! Your long-term bags are looking good in stocks. The Nasdaq exploded up 1.4% today, with the S&P 500 also climbing a solid 0.3%. Green across the board for broad markets. Over in crypto, XRP saw a small dip, down about 1.6%. Just another day in the digital asset grind, no sweat. Remember, it's about the long game, not daily wiggles. Stocks are strong, crypto is chilling. Stay consistent! Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what's shaking in the markets? No drama, just good vibes! Your S&P 500, trusty SPY, cruised up a chill 0.3%. Steady as she goes, right?\n\nBut the real showstopper? The Nasdaq, QQQ, absolutely soared, up a whopping 1.4%! Tech stocks are having a party, powering those long-term bags.\n\nOver in crypto-land, XRP dipped about 4%. Classic crypto volatility, nothing new. Just a typical day \u2013 stocks chill, tech flies, crypto takes a breath. Keep stacking that bread, team!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
