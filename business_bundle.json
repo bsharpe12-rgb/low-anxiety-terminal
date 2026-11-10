@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-08 11:47 PM EST",
+    "last_updated": "2026-11-10 02:47 AM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 735.29,
-            "change": 0.31
+            "price": 752.69,
+            "change": 2.37
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 656.1,
-            "change": 1.4
+            "price": 679.35,
+            "change": 3.54
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.12,
-            "change": -4.0
+            "price": 1.09,
+            "change": -178.72
         }
     },
-    "daily_script": "Alright, what's shaking in the markets? No drama, just good vibes! Your S&P 500, trusty SPY, cruised up a chill 0.3%. Steady as she goes, right?\n\nBut the real showstopper? The Nasdaq, QQQ, absolutely soared, up a whopping 1.4%! Tech stocks are having a party, powering those long-term bags.\n\nOver in crypto-land, XRP dipped about 4%. Classic crypto volatility, nothing new. Just a typical day \u2013 stocks chill, tech flies, crypto takes a breath. Keep stacking that bread, team!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, bag builders, let's talk market vibes today!\n\nThe big dogs are flexing. S&P 500 up over two percent, Nasdaq crushing it with a massive three and a half percent gain. Stocks are looking strong, putting more juice in those long-term bags.\n\nNow, over in crypto-land, XRP took a wild dip. Crypto's rollercoaster life, right? Remember, long game, always. Volatility is just part of the ride.\n\nSo, a mixed bag, but mostly green for your core portfolio today!\n\nTrack this stress-free on our free, no-nonsense market terminal. Pinned link!"
 }
