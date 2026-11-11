@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-10 02:47 AM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-11-11 12:42 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 752.69,
-            "change": 2.37
+            "price": 749.92,
+            "change": -0.37
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 679.35,
-            "change": 3.54
+            "price": 674.76,
+            "change": -0.68
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.09,
-            "change": -178.72
+            "price": 1.05,
+            "change": -410.34
         }
     },
-    "daily_script": "Alright, bag builders, let's talk market vibes today!\n\nThe big dogs are flexing. S&P 500 up over two percent, Nasdaq crushing it with a massive three and a half percent gain. Stocks are looking strong, putting more juice in those long-term bags.\n\nNow, over in crypto-land, XRP took a wild dip. Crypto's rollercoaster life, right? Remember, long game, always. Volatility is just part of the ride.\n\nSo, a mixed bag, but mostly green for your core portfolio today!\n\nTrack this stress-free on our free, no-nonsense market terminal. Pinned link!"
+    "daily_script": "Alright money builders, let\u2019s get into today\u2019s market vibe! The S&P 500 and Nasdaq saw a little dip today, nothing wild, just a touch of red. We\u2019re talking less than one percent, so for your long-term bags, that\u2019s just a normal Tuesday. Now, crypto\u2026 whoa. One token got absolutely hammered, a massive dive. This is why diversification matters, folks! Don't let daily noise distract your long-term vision. These are just waves; stay focused on your strategy and keep stacking those assets. Today's moves? Just another day on the journey. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
