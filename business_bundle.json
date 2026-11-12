@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-11 12:42 AM EST",
+    "last_updated": "2026-11-12 01:56 AM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 749.92,
-            "change": -0.37
+            "price": NaN,
+            "change": NaN
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 674.76,
-            "change": -0.68
+            "price": NaN,
+            "change": NaN
         },
         "XRP": {
             "ticker": "XRP-USD",
             "price": 1.05,
-            "change": -410.34
+            "change": -49.44
         }
     },
-    "daily_script": "Alright money builders, let\u2019s get into today\u2019s market vibe! The S&P 500 and Nasdaq saw a little dip today, nothing wild, just a touch of red. We\u2019re talking less than one percent, so for your long-term bags, that\u2019s just a normal Tuesday. Now, crypto\u2026 whoa. One token got absolutely hammered, a massive dive. This is why diversification matters, folks! Don't let daily noise distract your long-term vision. These are just waves; stay focused on your strategy and keep stacking those assets. Today's moves? Just another day on the journey. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "What's up, money builders? Let's talk today's market vibe! While the broader stock market seems to be catching its breath, looking for its next move, we saw some wild action in crypto. XRP, that's XRP, took a huge tumble, down almost 50% today to a dollar five. For those building long-term bags, remember, crypto's a rollercoaster. Massive swings like this? Totally normal in the digital asset space. It's all part of the journey. Don't panic, just keep your eyes on the long game. Volatility can create opportunities, but it also tests your conviction. Keep that perspective tight. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
