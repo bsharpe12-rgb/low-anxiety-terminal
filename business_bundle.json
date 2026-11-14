@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-13 01:11 AM EST",
+    "last_updated": "2026-11-14 12:55 AM EST",
     "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": NaN,
-            "change": NaN
+            "price": 754.37,
+            "change": -0.36
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": NaN,
-            "change": NaN
+            "price": 679.89,
+            "change": -1.2
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 1.03,
-            "change": -179.44
+            "price": 1.01,
+            "change": -238.86
         }
     },
-    "daily_script": "Alright crew, let's talk markets! Today's vibe? A bit of a mixed bag. Mainstream markets, like the S&P and Nasdaq, were pretty much holding steady. No wild swings, just grinding along, which is sometimes the best news for building that long-term bag.\n\nNow, over in crypto-land, XRP had a wild ride. Dropping significantly, it really tested some nerves out there. But hey, extreme volatility is part of the game for digital assets. For our long-term holders, remember these moments. They\u2019re usually just noise in the bigger picture. Don't panic, stay focused on your strategy.\n\nWant to track this stress-free? Hit the pinned link for our free market terminal."
+    "daily_script": "Alright team, let's talk market vibes! What's the money machine doing today?\n\nStocks took a little breather. The S&P 500 dipped a tiny 0.36%, Nasdaq pulled back 1.2%. Think of it as a slight discount on your long-term bags. Totally normal, zero panic for your main portfolio.\n\nNow, crypto? Whoa. XRP had a *wild* ride. A significant correction today, showing that crypto rollercoaster is always full speed ahead! Expect big swings there.\n\nSo for your main bags, just a little ebb. No alarms for us long-haulers. Keep building!\n\nTrack today's market vibe stress-free on our free terminal\u2014link's pinned!"
 }
