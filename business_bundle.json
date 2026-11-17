@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-16 12:00 AM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-11-17 02:59 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 754.37,
-            "change": -0.36
+            "price": 739.95,
+            "change": -1.91
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 679.89,
-            "change": -1.2
+            "price": 661.75,
+            "change": -2.67
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 0.97,
-            "change": 657.77
+            "price": 0.95,
+            "change": -120.07
         }
     },
-    "daily_script": "What's the market vibe today? Wild! Your broad market, SPY and Nasdaq, took a tiny pause. SPY down just 0.36%, Nasdaq dipped 1.2%. No sweat for your long-term bags, just a little breather before the next climb.\n\nBut here's the shocker: XRP absolutely rocketed! Up a mind-blowing 657% today, pushing near a dollar! Seriously, over six hundred percent! So while big tech takes a quick nap, crypto reminds us of explosive potential.\n\nToday's market: gentle ebb for some, massive flow for others. Just another day building wealth without panic.\n\nCheck today's vibe and run your growth numbers on our free terminal\u2014link is pinned!"
+    "daily_script": "Alright, market squad, let\u2019s talk today\u2019s vibe! Stocks took a little breather. The S&P 500 dipped almost two percent, and the Nasdaq, with its tech friends, pulled back even harder, down nearly three percent. For us long-term bag builders, this is just part of the journey. Nothing to sweat.\n\nNow, XRP? Woah. It\u2019s showing an absolutely wild, impossible-looking plunge today. Crypto definitely had a *moment* of serious turbulence. Crazy ride there.\n\nSo, yeah, a red day, but remember: these are just market wiggles. We stay focused on the long game, building those bags.\n\nTrack this stress-free on our free market terminal. Link is pinned!"
 }
