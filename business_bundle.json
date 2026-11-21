@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-20 01:48 AM EST",
-    "market_vibe": "Bullish",
+    "last_updated": "2026-11-21 01:36 AM EST",
+    "market_vibe": "Bearish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
@@ -14,9 +14,9 @@
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 0.96,
-            "change": 21.83
+            "price": 0.9,
+            "change": -511.39
         }
     },
-    "daily_script": "What a day in the markets! While the S&P and Nasdaq were catching their breath, maybe even feeling a bit sideways today, one asset was absolutely roaring. We're talking XRP, hitting $0.96 with a massive twenty-one percent jump! Definitely a wild ride for the crypto crowd building those long-term bags. It's a great reminder that even on quieter days for the big indexes, there's always action somewhere. Stay focused on your long game, keep that stress low, and let's keep building! Want to track this stress-free? Hit the pinned link for our free market terminal!"
+    "daily_script": "Alright team, let's talk market vibes! Today's numbers are playing a little coy. Your S&P 500 and Nasdaq are hanging tight, maybe catching their breath. No dramatic swings here, which for long-term builders, can be a nice, calm day in the office. Now, XRP... wow. Looks like the data stream is having a moment with some truly wild percentages. We're talking numbers that aren't quite adding up to reality, but hey, that's crypto sometimes \u2013 always keeping us on our toes! Remember, patience is the ultimate superpower. We're building bags, not panicking. Want to track this stress-free? Tap the pinned link for our free, no-nonsense market terminal."
 }
