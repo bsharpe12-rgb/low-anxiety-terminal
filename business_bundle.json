@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-21 01:36 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-11-22 12:26 AM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": NaN,
-            "change": NaN
+            "price": 689.81,
+            "change": -3.64
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": NaN,
-            "change": NaN
+            "price": 608.45,
+            "change": -5.67
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 0.9,
-            "change": -511.39
+            "price": 0.93,
+            "change": 255.48
         }
     },
-    "daily_script": "Alright team, let's talk market vibes! Today's numbers are playing a little coy. Your S&P 500 and Nasdaq are hanging tight, maybe catching their breath. No dramatic swings here, which for long-term builders, can be a nice, calm day in the office. Now, XRP... wow. Looks like the data stream is having a moment with some truly wild percentages. We're talking numbers that aren't quite adding up to reality, but hey, that's crypto sometimes \u2013 always keeping us on our toes! Remember, patience is the ultimate superpower. We're building bags, not panicking. Want to track this stress-free? Tap the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what a wild ride today! If you checked your traditional stocks, you probably saw some serious red. The S&P 500 dipped almost four percent, with the Nasdaq taking a bigger hit, down over five percent. Ouch. For long-term bag builders, maybe it\u2019s a sale, but definitely a choppy day out there.\n\nBut hold up! While tech took a breather, crypto had a *monster* moment! XRP exploded, up an absolutely mind-blowing two hundred and fifty-five percent today! Seriously, two hundred and fifty-five percent! Talk about a breakout! So, a Tale of Two Markets: a big discount day for some, and a full-on rocket launch for others. Keep building those bags, whatever your flavor!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
