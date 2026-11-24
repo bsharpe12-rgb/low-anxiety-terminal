@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-23 12:57 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-11-24 04:50 AM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 689.81,
-            "change": -3.64
+            "price": 722.29,
+            "change": 4.71
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 608.45,
-            "change": -5.67
+            "price": 651.03,
+            "change": 7.0
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 0.92,
-            "change": -68.93
+            "price": 0.95,
+            "change": 217.86
         }
     },
-    "daily_script": "Alright future millionaires, buckle up! Today's market vibe? A bit of a bumpy ride, but absolutely zero panic here. SPY down three, Nasdaq taking a five percent dip. For our long-term bags, that's just a regular Tuesday, maybe even a chance to add to your positions, right? And crypto? XRP went absolutely wild, down nearly seventy percent! Talk about volatility! But if you're building a bag, you know these days are part of the game. Stay focused on the long haul. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright future millionaires, what a day! The market went absolutely wild. SPY, our S&P 500 buddy, jumped almost five percent to over seven hundred twenty-two bucks. Nasdaq's tech powerhouse QQQ surged a massive seven percent to six hundred fifty-one. If you're building those long-term bags, today felt like a serious power-up! But check this! XRP, the crypto disruptor, exploded over two hundred percent to ninety-five cents! Yeah, two hundred percent! Serious fireworks out there. The vibe today? Pure energy, but remember, we're playing the long game. It's all about consistent growth. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
