@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-25 03:35 AM EST",
-    "market_vibe": "Bearish",
+    "last_updated": "2026-11-26 02:54 AM EST",
+    "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 718.78,
-            "change": -0.49
+            "price": 716.7,
+            "change": -0.29
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 638.1,
-            "change": -1.99
+            "price": 633.93,
+            "change": -0.65
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 0.92,
-            "change": -290.27
+            "price": 0.96,
+            "change": 421.08
         }
     },
-    "daily_script": "Alright bag-builders, let's talk market vibe today!\n\nThe S&P 500, your broad market buddy, just a small dip, barely a ripple. But tech? The Nasdaq felt it more, taking a decent hit today. And crypto? XRP just had a day. A really, really red day. Yikes!\n\nSo, a bit of a mixed bag, with tech and crypto feeling the squeeze, but the broader market holding relatively steady. Remember, these are just daily snapshots. Stay focused on your long-term vision, keep those bags growing!\n\nWant to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
+    "daily_script": "Alright, what's the market vibe today? Let's dive in. SPY and QQQ are just taking a tiny breather, down less than a percent. Totally chill if you're building those long-term bags. But hold up! XRP just went absolutely parabolic! Up over four hundred percent today! That's a massive moonshot, proving crypto keeps things spicy! So, traditional markets are just hitting pause, while one corner of crypto just went supernova. What a wild ride!\n\nWant to track this stress-free? Our free market terminal has you covered. Check the pinned link!"
 }
