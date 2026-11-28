@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-27 02:56 AM EST",
+    "last_updated": "2026-11-28 02:47 AM EST",
     "market_vibe": "Bullish",
     "market_data": {
         "S&P 500": {
             "ticker": "SPY",
-            "price": 716.7,
-            "change": -0.29
+            "price": 728.32,
+            "change": 1.62
         },
         "Nasdaq": {
             "ticker": "QQQ",
-            "price": 633.93,
-            "change": -0.65
+            "price": 650.99,
+            "change": 2.69
         },
         "XRP": {
             "ticker": "XRP-USD",
-            "price": 0.96,
-            "change": 44.01
+            "price": 0.95,
+            "change": -99.15
         }
     },
-    "daily_script": "What's up, money builders? Let's check the market vibe! Your S&P 500, the SPY, took a tiny dip today, down just 0.29%. Nothing to sweat there. Nasdaq's QQQ, the tech plays, also saw a small chill, off 0.65%. So, mainstream stocks are just catching their breath, totally normal stuff. But hold up! In the crypto world, XRP went absolutely bananas! Up a massive 44% today, hitting 96 cents. That's some serious momentum! So, a little quiet on the traditional side, a massive pop in crypto. Keep those long-term bags growing! Want to track this stress-free? Hit the pinned link for our free market terminal."
+    "daily_script": "Alright, what a day in the markets! Your long-term bags just got a sweet boost today. The S&P 500, your good old SPY, jumped over 1.6% and tech, the QQQ, was absolutely on fire, up nearly 2.7%! Green lights everywhere for stocks, feeling good if you\u2019re holding the big stuff.\n\nNow, let's talk crypto. XRP? Yikes. It took a wild, almost 99% dive today. A serious reminder that crypto can be a rollercoaster, but that's just one asset in a much bigger game. Keep your cool.\n\nSo, stocks looking strong, crypto showing its wild side. Just another day building that wealth. Want to track this stress-free? Hit the pinned link for our free, no-nonsense market terminal."
 }
